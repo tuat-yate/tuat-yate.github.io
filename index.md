@@ -1,3 +1,8 @@
+---
+title: My First Page
+layout: default
+---
+
 # Profile
 
 {: align="center"}
