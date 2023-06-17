@@ -2,3 +2,4 @@ title: tuat-yate's page
 description: 大学での研究生活の傍ら趣味でプログラミングを行っています．研究ではPythonを主に扱っていますが，業務委託でその他の言語も使用しています．
 remote_theme: pages-themes/cayman@v0.2.0
 show_downloads: false
+is_project_page: false
