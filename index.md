@@ -1,5 +1,8 @@
 # Profile
 
+{: align="center"}
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
 <dl>
 <dt>Name</dt>
     <dd>小島颯(Hayate Kojima)</dd>
