@@ -1,5 +1,5 @@
 ---
-title: My First Page
+title: Hayate Kojima
 layout: default
 ---
 
