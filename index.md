@@ -1,12 +1,10 @@
----
-title: Hayate Kojima
-layout: default
----
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 
 # Profile
 
 {: align="center"}
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](https://github.com/tuat-yate/tuat-yate/blob/main/main_pic.png?raw=true)
 
 <dl>
 <dt>Name</dt>
@@ -19,9 +17,6 @@ layout: default
     <dd>2023/04~　東京農工大学工学府知能情報システム工学専攻</dd>
 </dl>
 
-# Works
-
-
 # Papers
 
 1. **小島 颯**，高田 勝悟，Kesevan Veloo，仲村 将司，中條 拓伯, "家庭菜園におけるインタラクティブ栽培センシングシステムの実現", 組込みシステムシンポジウム2019論文集, 2019年08月.	
@@ -29,3 +24,46 @@ layout: default
 3. **小島 颯**，，山田 宏樹，野口 ひかり，田中 雄一, "深層展開を用いた時変グラフ信号の再構成", 第37回信号処理シンポジウム, 2022年12月.
 4. **H. Kojima**, H. Noguchi, K. Yamada and Y. Tanaka, "Restoration of Time-Varying Graph Signals using Deep Algorithm Unrolling," ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, Greece, 2023, pp. 1-5, doi: 10.1109/ICASSP49357.2023.10094838.
 
+# Skills
+
+### Python
+- 2018~
+- BeautifulSoup4 / Selenium / NumPy / TensorFlow / Keras / PyTorch
+
+### C
+- 2016~
+
+### Google Apps Script
+- 2019~
+- APIs / backend
+
+### 基本情報技術者試験
+- 2021
+
+### CG-ARTS CGエンジニア検定
+- 2020
+
+# Works
+### 東京農工大学掲示板bot
+> 大学のweb掲示板をtwitter上で見れるようにしたbotです．
+
+### My-GPA-is-4.0
+> 東京農工大学の成績確認システムで自分のGPAを4.0にすることができるchrome拡張機能です．
+
+### 学食スクレイパー
+> 学食の情報をスクレイピングするスクリプトです．
+
+### C言語勉強スライド
+> 大学一年生のときに同級生向けに作成したC言語の勉強スライドです．
+
+### Pythonスライド
+> 大学二年生のときに同級生向けに作成したC言語の勉強スライドです．
+
+### LINE bot開発
+> 塾の学習サポートを行うLINE botです．
+
+### 医用画像AI開発
+> スタートアップにて医用画像解析を用いた診断支援技術を開発しました．
+
+### Others
+サークル等で学園祭のスタンプラリー開発等を行っています．
