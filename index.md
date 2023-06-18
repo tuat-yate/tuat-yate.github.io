@@ -47,7 +47,9 @@
 ### 東京農工大学掲示板bot
 > 大学のweb掲示板をtwitter上で見れるようにしたbotです．
 
-<div class="text-center"><a role="button" class="btn btn-outline-primary" href="https://twitter.com/tuat_techboard">Twitter</button></div>
+<div class="text-center">
+<a class="btn btn-primary" href="https://twitter.com/tuat_techboard" role="button">Twitter</a>
+</div>
 
 ### My-GPA-is-4.0
 > 東京農工大学の成績確認システムで自分のGPAを4.0にすることができるchrome拡張機能です．
