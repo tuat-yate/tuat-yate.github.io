@@ -4,7 +4,7 @@
 # Profile
 
 {: align="center"}
-![Octocat](https://github.com/tuat-yate/tuat-yate/blob/main/main_pic.png?raw=true)
+![Octocat](https://github.com/tuat-yate/tuat-yate/blob/main/main_pic.png?raw=true){:width="30%"}
 
 <dl>
 <dt>Name</dt>
