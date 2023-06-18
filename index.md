@@ -52,22 +52,30 @@
 ### My-GPA-is-4.0
 > 東京農工大学の成績確認システムで自分のGPAを4.0にすることができるchrome拡張機能です．
 
-<div class="text-center"><a role="button" class="btn btn-outline-primary" href="https://github.com/tuat-yate/My-GPA-is-4.0">View on Github</button></div>
+<div class="text-center">
+<a class="btn btn-primary" href="https://github.com/tuat-yate/My-GPA-is-4.0" role="button">View on Github</a>
+</div>
 
 ### 学食スクレイパー
 > 学食の情報をスクレイピングするスクリプトです．
 
-<div class="text-center"><a role="button" class="btn btn-outline-primary" href="https://github.com/tuat-yate/get_seikyo_item">View on Github</button></div>
+<div class="text-center">
+<a class="btn btn-primary" href="https://github.com/tuat-yate/get_seikyo_item" role="button">View on Github</a>
+</div>
 
 ### C言語勉強スライド
 > 大学一年生のときに同級生向けに作成したC言語の勉強スライドです．
 
-<div class="text-center"><a role="button" class="btn btn-outline-primary" href="https://www.slideshare.net/secret/6fCB13LYwsEBSC">View on slideshare</button></div>
+<div class="text-center">
+<a class="btn btn-primary" href="https://www.slideshare.net/secret/6fCB13LYwsEBSC" role="button">View on slideshare</a>
+</div>
 
 ### Pythonスライド
 > 大学二年生のときに同級生向けに作成したC言語の勉強スライドです．
 
-<div class="text-center"><a role="button" class="btn btn-outline-primary" href="https://www.slideshare.net/secret/I6IdvRHdnncQIG">View on slideshare</button></div>
+<div class="text-center">
+<a class="btn btn-primary" href="https://www.slideshare.net/secret/I6IdvRHdnncQIG" role="button">View on slideshare</a>
+</div>
 
 ### LINE bot開発
 > 塾の学習サポートを行うLINE botです．
