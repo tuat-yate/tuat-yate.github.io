@@ -46,6 +46,8 @@
 # Works
 ### 東京農工大学掲示板bot
 > 大学のweb掲示板をtwitter上で見れるようにしたbotです．
+{: align="center"}
+<button type="button" class="btn btn-primary">Primary</button>
 
 ### My-GPA-is-4.0
 > 東京農工大学の成績確認システムで自分のGPAを4.0にすることができるchrome拡張機能です．
