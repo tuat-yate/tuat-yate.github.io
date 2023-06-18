@@ -4,7 +4,7 @@
 # Profile
 
 {: align="center"}
-![Octocat](https://github.com/tuat-yate/tuat-yate/blob/main/main_pic.png?raw=true){:width="100%"}
+![Octocat](https://github.com/tuat-yate/tuat-yate.github.io/blob/main/media/main_pic.png?raw=true){:width="50%"}
 
 <dl>
 <dt>Name</dt>
@@ -45,45 +45,61 @@
 
 # Works
 ### 東京農工大学掲示板bot
+{: align="center"}
+![Octocat](https://github.com/tuat-yate/tuat-yate.github.io/blob/main/media/twitter.jpg?raw=true){:width="50%"}
 > 大学のweb掲示板をtwitter上で見れるようにしたbotです．
 
 <div class="text-center">
-<a class="btn btn-primary" href="https://twitter.com/tuat_techboard" role="button">Twitter</a>
+<a class="btn btn-outline-primary" href="https://twitter.com/tuat_techboard" role="button">Twitter</a>
 </div>
 
 ### My-GPA-is-4.0
+{: align="center"}
+![Octocat](https://github.com/tuat-yate/tuat-yate.github.io/blob/main/media/gpa.png?raw=true){:width="50%"}
 > 東京農工大学の成績確認システムで自分のGPAを4.0にすることができるchrome拡張機能です．
 
 <div class="text-center">
-<a class="btn btn-primary" href="https://github.com/tuat-yate/My-GPA-is-4.0" role="button">View on Github</a>
+<a class="btn btn-outline-primary" href="https://github.com/tuat-yate/My-GPA-is-4.0" role="button">View on Github</a>
 </div>
 
 ### 学食スクレイパー
+{: align="center"}
+![Octocat](https://github.com/tuat-yate/tuat-yate.github.io/blob/main/media/seikyo.png?raw=true){:width="50%"}
 > 学食の情報をスクレイピングするスクリプトです．
 
 <div class="text-center">
-<a class="btn btn-primary" href="https://github.com/tuat-yate/get_seikyo_item" role="button">View on Github</a>
+<a class="btn btn-outline-primary" href="https://github.com/tuat-yate/get_seikyo_item" role="button">View on Github</a>
 </div>
 
 ### C言語勉強スライド
+{: align="center"}
+![Octocat](https://github.com/tuat-yate/tuat-yate.github.io/blob/main/media/C_slide.jpeg?raw=true){:width="50%"}
 > 大学一年生のときに同級生向けに作成したC言語の勉強スライドです．
 
 <div class="text-center">
-<a class="btn btn-primary" href="https://www.slideshare.net/secret/6fCB13LYwsEBSC" role="button">View on slideshare</a>
+<a class="btn btn-outline-primary" href="https://www.slideshare.net/secret/6fCB13LYwsEBSC" role="button">View on slideshare</a>
 </div>
 
 ### Pythonスライド
+{: align="center"}
+![Octocat](https://github.com/tuat-yate/tuat-yate.github.io/blob/main/media/python_slide.jpg?raw=true){:width="50%"}
 > 大学二年生のときに同級生向けに作成したC言語の勉強スライドです．
 
 <div class="text-center">
-<a class="btn btn-primary" href="https://www.slideshare.net/secret/I6IdvRHdnncQIG" role="button">View on slideshare</a>
+<a class="btn btn-outline-primary" href="https://www.slideshare.net/secret/I6IdvRHdnncQIG" role="button">View on slideshare</a>
 </div>
 
 ### LINE bot開発
+{: align="center"}
+![Octocat](#){:width="50%"}
 > 塾の学習サポートを行うLINE botです．
 
 ### 医用画像AI開発
+{: align="center"}
+![Octocat](#){:width="50%"}
 > スタートアップにて医用画像解析を用いた診断支援技術を開発しました．
 
 ### Others
+{: align="center"}
+![Octocat](#){:width="50%"}
 > サークル等で学園祭のスタンプラリー開発等を行っています．
