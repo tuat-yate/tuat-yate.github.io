@@ -47,27 +47,27 @@
 ### 東京農工大学掲示板bot
 > 大学のweb掲示板をtwitter上で見れるようにしたbotです．
 
-<div class="text-center"><button type="button" class="btn btn-primary" href="https://twitter.com/tuat_techboard">Twitter</button></div>
+<div class="text-center"><button type="button" class="btn btn-outline-primary" href="https://twitter.com/tuat_techboard">Twitter</button></div>
 
 ### My-GPA-is-4.0
 > 東京農工大学の成績確認システムで自分のGPAを4.0にすることができるchrome拡張機能です．
 
-<div class="text-center"><button type="button" class="btn btn-primary" href="https://github.com/tuat-yate/My-GPA-is-4.0">View on Github</button></div>
+<div class="text-center"><button type="button" class="btn btn-outline-primary" href="https://github.com/tuat-yate/My-GPA-is-4.0">View on Github</button></div>
 
 ### 学食スクレイパー
 > 学食の情報をスクレイピングするスクリプトです．
 
-<div class="text-center"><button type="button" class="btn btn-primary" href="https://github.com/tuat-yate/get_seikyo_item">View on Github</button></div>
+<div class="text-center"><button type="button" class="btn btn-outline-primary" href="https://github.com/tuat-yate/get_seikyo_item">View on Github</button></div>
 
 ### C言語勉強スライド
 > 大学一年生のときに同級生向けに作成したC言語の勉強スライドです．
 
-<div class="text-center"><button type="button" class="btn btn-primary" href="https://www.slideshare.net/secret/6fCB13LYwsEBSC">View on slideshare</button></div>
+<div class="text-center"><button type="button" class="btn btn-outline-primary" href="https://www.slideshare.net/secret/6fCB13LYwsEBSC">View on slideshare</button></div>
 
 ### Pythonスライド
 > 大学二年生のときに同級生向けに作成したC言語の勉強スライドです．
 
-<div class="text-center"><button type="button" class="btn btn-primary" href="https://www.slideshare.net/secret/I6IdvRHdnncQIG">View on slideshare</button></div>
+<div class="text-center"><button type="button" class="btn btn-outline-primary" href="https://www.slideshare.net/secret/I6IdvRHdnncQIG">View on slideshare</button></div>
 
 ### LINE bot開発
 > 塾の学習サポートを行うLINE botです．
