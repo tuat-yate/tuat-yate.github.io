@@ -47,7 +47,27 @@
 ### CG-ARTS CGエンジニア検定
 - 2020
 
-# Works
+# Work Experience
+### 2023.08~: Osaka University, Specially Appointed Research Fellow.
+グラフ信号処理に関連した研究を行っています．
+
+### 2022.10~: ****, Programming Teacher (part-time).
+Unity，Pythonなどを小中学生に教えています．
+
+### 2020.10~2021.12: BonBon,Inc. , Data Scientist (part-time).
+主に医用画像を対象とした医療診断補助ソフトウェアに従事．
+
+### 2019.10~2020.03: ELOOP,Inc. , Programmer (and Writer) (part-time).
+プログラミング学習サイトELOOPにおけるプログラミング＆学習記事の執筆を行いました．
+
+# Products
+### 東京農工大学掲示板bot
+![Octocat](https://github.com/tuat-yate/tuat-yate.github.io/blob/main/media/twitter.jpg?raw=true){:width="50%";align="center"}
+> 大学のweb掲示板をtwitter上で見れるようにしたbotです．
+
+<div class="text-center">
+<a class="btn btn-outline-primary" href="https://twitter.com/tuat_techboard" role="button">Twitter</a>
+</div>
 
 ### 東京農工大学統合認証システム自動化chrome拡張機能
 > 東京農工大学の統合認証システムの二段階認証入力を自動化するchrome拡張です．
@@ -58,10 +78,6 @@
 <div class="text-center">
 <a class="btn btn-outline-primary" href="https://github.com/tuat-yate/TUAT-Autofill-Extension" role="button">View on Github</a>
 </div>
-
-### 東京農工大学掲示板bot
-![Octocat](https://github.com/tuat-yate/tuat-yate.github.io/blob/main/media/twitter.jpg?raw=true){:width="50%";align="center"}
-> 大学のweb掲示板をtwitter上で見れるようにしたbotです．
 
 <div class="text-center">
 <a class="btn btn-outline-primary" href="https://twitter.com/tuat_techboard" role="button">Twitter</a>
@@ -101,9 +117,6 @@
 
 ### LINE bot開発
 > 塾の学習サポートを行うLINE botです．
-
-### 医用画像AI開発
-> スタートアップにて医用画像解析を用いた診断支援技術を開発しました．
 
 ### Others
 > サークル等で学園祭のスタンプラリー開発等を行っています．
