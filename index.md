@@ -48,13 +48,6 @@
 - 2020
 
 # Works
-### 東京農工大学掲示板bot
-![Octocat](https://github.com/tuat-yate/tuat-yate.github.io/blob/main/media/twitter.jpg?raw=true){:width="50%";align="center"}
-> 大学のweb掲示板をtwitter上で見れるようにしたbotです．
-
-<div class="text-center">
-<a class="btn btn-outline-primary" href="https://twitter.com/tuat_techboard" role="button">Twitter</a>
-</div>
 
 ### 東京農工大学統合認証システム自動化chrome拡張機能
 > 東京農工大学の統合認証システムの二段階認証入力を自動化するchrome拡張です．
@@ -65,6 +58,10 @@
 <div class="text-center">
 <a class="btn btn-outline-primary" href="https://github.com/tuat-yate/TUAT-Autofill-Extension" role="button">View on Github</a>
 </div>
+
+### 東京農工大学掲示板bot
+![Octocat](https://github.com/tuat-yate/tuat-yate.github.io/blob/main/media/twitter.jpg?raw=true){:width="50%";align="center"}
+> 大学のweb掲示板をtwitter上で見れるようにしたbotです．
 
 <div class="text-center">
 <a class="btn btn-outline-primary" href="https://twitter.com/tuat_techboard" role="button">Twitter</a>
