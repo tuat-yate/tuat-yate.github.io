@@ -19,10 +19,14 @@
 
 # Papers
 
+## International Conferences
+1. **H. Kojima**, H. Noguchi, K. Yamada and Y. Tanaka, "Restoration of Time-Varying Graph Signals using Deep Algorithm Unrolling," ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, Greece, 2023, pp. 1-5, doi: 10.1109/ICASSP49357.2023.10094838.
+
+## Domestic Conference
 1. **小島 颯**，高田 勝悟，Kesevan Veloo，仲村 将司，中條 拓伯, "家庭菜園におけるインタラクティブ栽培センシングシステムの実現", 組込みシステムシンポジウム2019論文集, 2019年08月.	
-2. K. Veloo, **H. Kojima**, S. Takata, M. Nakamura and H. Nakajo, "Interactive Cultivation System for the Future IoT-Based Agriculture," 2019 Seventh International Symposium on Computing and Networking Workshops (CANDARW), Nagasaki, Japan, 2019, pp. 298-304, doi: 10.1109/CANDARW.2019.00059.
-3. **小島 颯**，，山田 宏樹，野口 ひかり，田中 雄一, "深層展開を用いた時変グラフ信号の再構成", 第37回信号処理シンポジウム, 2022年12月.
-4. **H. Kojima**, H. Noguchi, K. Yamada and Y. Tanaka, "Restoration of Time-Varying Graph Signals using Deep Algorithm Unrolling," ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, Greece, 2023, pp. 1-5, doi: 10.1109/ICASSP49357.2023.10094838.
+1. K. Veloo, **H. Kojima**, S. Takata, M. Nakamura and H. Nakajo, "Interactive Cultivation System for the Future IoT-Based Agriculture," 2019 Seventh International Symposium on Computing and Networking Workshops (CANDARW), Nagasaki, Japan, 2019, pp. 298-304, doi: 10.1109/CANDARW.2019.00059.
+1. **小島 颯**，山田 宏樹，野口 ひかり，田中 雄一, "深層展開を用いた時変グラフ信号の再構成", 第37回信号処理シンポジウム, 2022年12月.
+2. **小島 颯**，田中 雄一, "ライングラフを用いた人体ポーズデータの修復", 信号処理研究会, 2023年08月.
 
 # Skills
 
@@ -47,6 +51,20 @@
 ### 東京農工大学掲示板bot
 ![Octocat](https://github.com/tuat-yate/tuat-yate.github.io/blob/main/media/twitter.jpg?raw=true){:width="50%";align="center"}
 > 大学のweb掲示板をtwitter上で見れるようにしたbotです．
+
+<div class="text-center">
+<a class="btn btn-outline-primary" href="https://twitter.com/tuat_techboard" role="button">Twitter</a>
+</div>
+
+### 東京農工大学統合認証システム自動化chrome拡張機能
+> 東京農工大学の統合認証システムの二段階認証入力を自動化するchrome拡張です．
+[![](https://img.shields.io/chrome-web-store/v/nnnckhaffpfnflhcgdhikjbkfdhnmode)](https://chrome.google.com/webstore/detail/tuat-autofill-extension/nnnckhaffpfnflhcgdhikjbkfdhnmode/)
+[![](https://img.shields.io/chrome-web-store/users/nnnckhaffpfnflhcgdhikjbkfdhnmode)](https://chrome.google.com/webstore/detail/tuat-autofill-extension/nnnckhaffpfnflhcgdhikjbkfdhnmode/)
+[![](https://img.shields.io/chrome-web-store/rating/nnnckhaffpfnflhcgdhikjbkfdhnmode)](https://chrome.google.com/webstore/detail/tuat-autofill-extension/nnnckhaffpfnflhcgdhikjbkfdhnmode/)
+
+<div class="text-center">
+<a class="btn btn-outline-primary" href="https://github.com/tuat-yate/TUAT-Autofill-Extension" role="button">View on Github</a>
+</div>
 
 <div class="text-center">
 <a class="btn btn-outline-primary" href="https://twitter.com/tuat_techboard" role="button">Twitter</a>
