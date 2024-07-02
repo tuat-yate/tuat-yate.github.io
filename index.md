@@ -26,16 +26,21 @@
 # Papers
 
 ## International Conferences
-1. **H. Kojima**, Y. Tanaka, "Human Pose Refinement Using Line Graphs," ASPIRE 2024, Hiroshima, Japan, 2024, doi: (will be available soon).
-2. **H. Kojima**, H. Noguchi, K. Yamada and Y. Tanaka, "Restoration of Time-Varying Graph Signals using Deep Algorithm Unrolling," ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, Greece, 2023, pp. 1-5, doi: 10.1109/ICASSP49357.2023.10094838.
-3. K. Veloo, **H. Kojima**, S. Takata, M. Nakamura and H. Nakajo, "Interactive Cultivation System for the Future IoT-Based Agriculture," 2019 Seventh International Symposium on Computing and Networking Workshops (CANDARW), Nagasaki, Japan, 2019, pp. 298-304, doi: 10.1109/CANDARW.2019.00059.
+1. **H. Kojima**, H. Higashi, Y. Tanaka, “Interpretable Graph Signal Denoising Using Regularization by Denoising,” European Signal Processing Conference, Lyon, France, Aug. 2024. (Accepted)
+2. **H. Kojima**, Y. Tanaka, “Human Pose Refinement Using Line Graphs,” ASPIRE 2024, Hiroshima, Japan, 2024, doi: 10.34385/proc.80.P-14.
+3. **H. Kojima**, H. Noguchi, K. Yamada and Y. Tanaka, “Restoration of Time-Varying Graph Signals using Deep Algorithm Unrolling,” ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, Greece, 2023, pp. 1-5, doi: 10.1109/ICASSP49357.2023.10094838.
+4. K. Veloo, **H. Kojima**, S. Takata, M. Nakamura and H. Nakajo, “Interactive Cultivation System for the Future IoT-Based Agriculture,” 2019 Seventh International Symposium on Computing and Networking Workshops (CANDARW), Nagasaki, Japan, 2019, pp. 298-304, doi: 10.1109/CANDARW.2019.00059.
 
 ## Domestic Conference
-1. 高波 圭吾, **小島 颯**, 原 惇也, 坂東 幸浩, 高村 誠之, 東 広志, 田中 雄一, "深層展開を利用した多モーダルグラフ信号のグラフ学習を伴うノイズ除去", 画像工学研究会, 2024年03月.
-2. **小島 颯**，東 広志，田中 雄一, "Graph-RED: Regularization by Denoising を用いたグラフ信号のノイズ除去", 第38回信号処理シンポジウム, 2023年11月.
-3. **小島 颯**，田中 雄一, "ライングラフを用いた人体ポーズデータの修復", 信号処理研究会, 2023年08月.
-4. **小島 颯**，山田 宏樹，野口 ひかり，田中 雄一, "深層展開を用いた時変グラフ信号の再構成", 第37回信号処理シンポジウム, 2022年12月.
-5. **小島 颯**，高田 勝悟，Kesevan Veloo，仲村 将司，中條 拓伯, "家庭菜園におけるインタラクティブ栽培センシングシステムの実現", 組込みシステムシンポジウム2019論文集, 2019年08月.	
+1. 熊谷 塁， **小島 颯**， 東 広志， 田中 雄一, “GSP-Traffic Dataset:グラフ上データ解析のための交通流シミュレーションに基づくデータセット,” 電子情報通信学会 信号処理研究会 (SIP), 2024年06月.
+2. 高波 圭吾, **小島 颯**, 原 惇也, 坂東 幸浩, 高村 誠之, 東 広志, 田中 雄一, “深層展開を利用した多モーダルグラフ信号のグラフ学習を伴うノイズ除去,” 電子情報通信学会 画像工学研究会 (IE), 2024年03月.
+3. **小島 颯**，東 広志，田中 雄一, “Graph-RED: Regularization by Denoising を用いたグラフ信号のノイズ除去,” 第38回信号処理シンポジウム, 2023年11月.
+4. **小島 颯**，田中 雄一, “ライングラフを用いた人体ポーズデータの修復,” 電子情報通信学会 信号処理研究会 (SIP), 2023年08月.
+5. **小島 颯**，山田 宏樹，野口 ひかり，田中 雄一, “深層展開を用いた時変グラフ信号の再構成,” 第37回信号処理シンポジウム, 2022年12月.
+6. **小島 颯**，高田 勝悟，Kesevan Veloo，仲村 将司，中條 拓伯, “家庭菜園におけるインタラクティブ栽培センシングシステムの実現,” 組込みシステムシンポジウム2019論文集, 2019年08月.	
+
+# Award
+1. IE Special Award, Institute of Electronics, Information and Communication Engineers, Jun. 2024.
 
 # Work Experience
 ### 2023.08~2024.02: Osaka University, Specially Appointed Research Fellow (part-time).
