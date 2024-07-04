@@ -9,17 +9,14 @@
 
 <dl>
 <dt>Name</dt>
-    <dd>小島 颯 (Hayate Kojima)</dd>
-
-<dt>Born</dt>
-    <dd>2000/06/28</dd>
+    <dd>Hayate Kojima (小島 颯)</dd>
 
 <dt>Educational Background</dt>
-    <dd>2023/04~　東京農工大学工学府知能情報システム工学専攻</dd>
-    <dd>2019/04~2023/03　東京農工大学工学部知能情報システム工学科</dd>
-    <dd>2016/04~2019/03　東京工業大学附属科学技術高等学校</dd>
+    <dd>2023/04~　Department of Electrical Engineering and Computer Science, Faculty of Engineering, Tokyo University of Agriculture and Technology</dd>
+    <dd>2019/04~2023/03　Department of Electrical Engineering and Computer Science, Tokyo Graduate School of Engineering, University of Agriculture and Technology</dd>
+    <dd>2016/04~2019/03　Tokyo Tech High School of Science and Technology</dd>
 
-<dt>Major</dt>
+<dt>Research Interests</dt>
 <dd>Graph Signal Processing / Machine Learning</dd>
 </dl>
 
@@ -40,41 +37,41 @@
 6. **小島 颯**，高田 勝悟，Kesevan Veloo，仲村 将司，中條 拓伯, “家庭菜園におけるインタラクティブ栽培センシングシステムの実現,” 組込みシステムシンポジウム2019論文集, 2019年08月.	
 
 # Award
-1. IE Special Award, Institute of Electronics, Information and Communication Engineers, Jun. 2024.
+1. **IE Special Award**, Institute of Electronics, Information and Communication Engineers, Jun. 2024.
 
 # Work Experience
-### 2023.08~2024.02: Osaka University, Specially Appointed Research Fellow (part-time).
+## 2023.08~2024.02: Osaka University, Specially Appointed Research Fellow (part-time).
 グラフ信号処理に関連した研究を行っています．
 
-### 2022.10~: ****, Programming Teacher (part-time).
+## 2022.10~: ****, Programming Teacher (part-time).
 Unity，Pythonなどを小中学生に教えています．
 
-### 2020.10~2021.12: BonBon,Inc. , Data Scientist (part-time).
+## 2020.10~2021.12: BonBon,Inc. , Data Scientist (part-time).
 主に医用画像を対象とした医療診断補助ソフトウェアに従事していました．
 
-### 2019.10~2020.03: ELOOP,Inc. , Programmer (and Writer) (part-time).
+## 2019.10~2020.03: ELOOP,Inc. , Programmer (and Writer) (part-time).
 プログラミング学習サイトELOOPにおけるプログラミング＆学習記事の執筆を行いました．
 
 # Skills
 
-### Python
+## Python
 - 2018~
 - Deep Learning / Data Science ( PyTorch / NumPy / TensorFlow / Keras )
 - Web Scraping ( Selenium / BeautifulSoup4 )
 - Web Framework (Django)
 - etc.
 
-### C
+## C
 - 2016~
 
-### Google Apps Script
+## Google Apps Script
 - 2019~
 - APIs / backend
 
-### 基本情報技術者試験
+## 基本情報技術者試験
 - 2021
 
-### CG-ARTS CGエンジニア検定
+## CG-ARTS CGエンジニア検定
 - 2020
 
 # Products
