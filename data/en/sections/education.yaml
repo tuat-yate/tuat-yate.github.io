@@ -12,7 +12,7 @@ section:
 degrees:
 - name: 
   icon: fa-microscope
-  timeframe: 2022 - Present
+  timeframe: 2023 - Present
   institution:
     name: Graduate School of Engineering, Tokyo University of Agriculture and Technology
     # url: "#"
@@ -21,7 +21,7 @@ degrees:
 
 - name: Bachelor of Engineering
   icon: fa-microscope
-  timeframe: 2019 - 2022
+  timeframe: 2019 - 2023
   institution:
     name: Dept. of Electrical Engineering and Computer Science, Tokyo University of Agriculture and Technology
     # url: "#"
