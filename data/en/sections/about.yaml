@@ -32,9 +32,9 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://www.github.com/tuat-yate"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
+# - name: Twitter
+#   icon: "fab fa-twitter"
+#   url: "#"
 
 skills:
 - name: Python
