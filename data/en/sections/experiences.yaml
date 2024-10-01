@@ -1,0 +1,63 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: "** (not open to the public)"
+    url: ""
+    location: "**"
+    # logo: /images/sections/experiences/company1.jpg
+    # company overview
+    overview: ""
+  positions:
+  - designation: Programming Teacher (part-time)
+    start: Oct 2023
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - "I teach Unity, Python, etc. to high school students."
+
+- company:
+    name: Osaka University
+    url: "https://www.osaka-u.ac.jp/en"
+    location: Osaka, Japan
+    overview: ""
+  positions:
+  - designation: Specially appointed research fellow (part-time)
+    start: Aug 2021
+    end: Sep 2022
+    end: Feb 2023
+    responsibilities:
+    - "I engaged in research on graph signal processing."
+
+- company:
+    name: "BonBon,Inc."
+    url: "https://bon-bon.co.jp/"
+    location: Kyoto, Japan
+    overview: ""
+  positions:
+  - designation: Data-scientist (intern)
+    start: Oct 2020
+    end: Nov 2021
+    responsibilities:
+    - "I worked mainly on medical diagnostic assistance software for medical imaging."
+
+- company:
+    name: "ELOOP,Inc."
+    url: "https://e-loop.jp/#1"
+    location: Tokyo, Japan
+    overview: ""
+  positions:
+  - designation: Programmer (intern)
+    start: Oct 2019
+    end: Mar 2020
+    responsibilities:
+    - 'I developed the programming learning site "ELOOP".'
+  
