@@ -45,7 +45,6 @@ publications:
   - name: "Y. Tanaka"
   paper:
     summary: 
-    # url: "javascript:void(0);"
   categories: ["international-conference", "2024"]
   tags: ["International Conference", "2024"]
 
@@ -53,14 +52,14 @@ publications:
   publishedIn:
     name: European Signal Processing Conference (EUSIPCO), Lyon, France
     date: Aug. 2024
-    url: https://eusipcolyon.sciencesconf.org/
+    url: "https://eusipcolyon.sciencesconf.org/"
   authors:
   - name: H. Kojima
   - name: H. Higashi
   - name: Y. Tanaka
   paper:
     summary: 
-    # url: https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0002322.pdf
+    pdf: https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0002322.pdf
   categories: ["international-conference", "2024"]
   tags: ["International Conference", "2024"]
 
@@ -76,7 +75,6 @@ publications:
   - name: Y. Tanaka
   paper:
     summary: 
-    # url: "javascript:void(0);"
   categories: ["international-conference", "2024"]
   tags: ["International Conference", "2024"]
 
@@ -84,7 +82,7 @@ publications:
   publishedIn:
     name: "電子情報通信学会 信号処理研究会 (SIP)"
     date: "Jun. 2024"
-    # url: "https://ken.ieice.org/ken/program/index.php?tgs_regid=3d0ab9ec7458ac1ee0936edefdf6a3c32fa90f3ffe5602870fa4ef686e43353e"
+    url: "https://ken.ieice.org/ken/program/index.php?tgs_regid=3d0ab9ec7458ac1ee0936edefdf6a3c32fa90f3ffe5602870fa4ef686e43353e"
   authors:
   - name: "熊谷塁"
   - name: "小島颯"
@@ -92,7 +90,7 @@ publications:
   - name: "田中雄一"
   paper:
     summary: 
-    # url: "javascript:void(0);"
+    url: "https://ken.ieice.org/ken/paper/20240606qcD8/"
   categories: ["domestic-conference", "2024"]
   tags: ["Domestic Conference", "2024"]
 
@@ -111,7 +109,7 @@ publications:
   - name: "田中雄一"
   paper:
     summary: 
-    # url: "javascript:void(0);"
+    url: "https://ken.ieice.org/ken/paper/20240315Sc1W/"
   categories: ["domestic-conference", "2024"]
   tags: ["Domestic Conference", "2024"]
 
@@ -125,7 +123,8 @@ publications:
   - name: Y. Tanaka
   paper:
     summary: 
-    # url: "https://doi.org/10.34385/proc.80.P-14"
+    url: "https://www.ieice.org/publications/proceedings/summary.php?iconf=ASPIRE_WS&session_num=P&number=P-14&year=2024"
+    pdf: "https://www.ieice.org/publications/proceedings/bin/pdf_link.php?fname=14.pdf&iconf=ASPIRE_WS&year=2024&vol=80&number=P-14&lang=E"
   categories: ["international-conference", "2024"]
   tags: ["International Conference", "2024"]
 
@@ -140,7 +139,6 @@ publications:
   - name: "田中雄一"
   paper:
     summary: 
-    # url: "javascript:void(0);"
   categories: ["domestic-conference", "2023"]
   tags: ["Domestic Conference", "2023"]
 
@@ -148,13 +146,13 @@ publications:
   publishedIn:
     name: "電子情報通信学会 信号処理研究会 (SIP)"
     date: "Oct. 2023"
-    url: "javascript:void(0);"
+    url: "https://ken.ieice.org/ken/program/index.php?tgs_regid=ff3d97a6088510dec2a5d0e71384bd62140d8e28c79634569b1c1d89bdb78f6a&tgid=IEICE-SIP"
   authors:
   - name: "小島颯"
   - name: "田中雄一"
   paper:
     summary: 
-    # url: "javascript:void(0);"
+    url: "https://ken.ieice.org/ken/paper/20230808iCw3/"
   categories: ["domestic-conference", "2023"]
   tags: ["Domestic Conference", "2023"]
 
@@ -162,7 +160,7 @@ publications:
   publishedIn:
     name: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, Greece
     date: Jun. 2023
-    url: https://www.greeniot.org/aspire_2024/
+    url: "https://2023.ieeeicassp.org/"
   authors:
   - name: H. Kojima
   - name: H. Noguchi
@@ -170,7 +168,7 @@ publications:
   - name: Y. Tanaka
   paper:
     summary: 
-    # url: https://doi.org/10.1109/ICASSP49357.2023.10094838
+    url: "https://doi.org/10.1109/ICASSP49357.2023.10094838"
   categories: ["international-conference", "2023"]
   tags: ["International Conference", "2023"]
 
@@ -186,7 +184,6 @@ publications:
   - name: "田中雄一"
   paper:
     summary: 
-    # url: "javascript:void(0);"
   categories: ["domestic-conference", "2022"]
   tags: ["Domestic Conference", "2022"]
 
@@ -194,7 +191,7 @@ publications:
   publishedIn:
     name: Seventh International Symposium on Computing and Networking Workshops (CANDARW), Nagasaki, Japan
     date: Nov. 2019
-    url: https://is-candar.org/candar19/
+    url: "https://is-candar.org/candar19/"
   authors:
   - name: K. Veloo
   - name: H. Kojima
@@ -203,7 +200,7 @@ publications:
   - name: H. Nakajo
   paper:
     summary: 
-    # url: https://doi.org/10.1109/CANDARW.2019.00059
+    url: https://doi.org/10.1109/CANDARW.2019.00059
   categories: ["international-conference", "2019"]
   tags: ["International Conference", "2019"]
 
@@ -211,7 +208,7 @@ publications:
   publishedIn:
     name: "組込みシステムシンポジウム"
     date: "Oct. 2019"
-    url: "javascript:void(0);"
+    url: "https://www.ipsj.or.jp/kenkyukai/event/s-ess2019.html"
   authors:
   - name: "小島颯"
   - name: "高田勝悟"
@@ -220,7 +217,9 @@ publications:
   - name: "中條拓伯"
   paper:
     summary: 
-    # url: "javascript:void(0);"
+    url: "https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=198767&item_no=1&page_id=13&block_id=8"
+    pdf: "https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&item_id=198767&file_id=1&file_no=1"
+    # bibtex: "@inproceedings{weko_198767_1,\nauthor	 = \"小島,颯 and 高田,勝悟 and Kesevan,Veloo and 仲村,将司 and 中條,拓伯\",\ntitle	 = \"家庭菜園におけるインタラクティブ栽培センシングシステムの実現\",\nbooktitle	 = \"組込みシステムシンポジウム2019論文集\",\nyear 	 = \"2019\",\nvolume	 = \"2019\",\nnumber	 = \"\",\npages	 = \"5--8\",\nmonth	 = \"aug\"\n}"
   categories: ["domestic-conference", "2019"]
   tags: ["Domestic Conference", "2019"]
   

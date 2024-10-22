@@ -11,7 +11,7 @@
     <div class="card-header">
       <h5 class="card-title mb-0">{{ .title }}</h5>
       <div class="sub-title">
-        <span><a class="" href="{{.publishedIn.url}}">{{ .publishedIn.name }}</a></span>
+        <span><a target="_blank" href="{{.publishedIn.url}}">{{ .publishedIn.name }}</a></span>
         <span class="ms-2">{{ .publishedIn.date }}</span>
       </div>
       <div class="authors">
@@ -31,11 +31,18 @@
             </span>
         {{ end }}
       </div>
-      {{ if .paper.url }}
+      
       <div class="details-btn">
-        <a class="btn btn-outline-info ms-1 ps-2 mb-2" href="{{ .paper.url }}" target="_blank" rel="noopener" role="button">{{ i18n "project_details"}}</a>
+        {{ if .paper.pdf }}
+        <a class="btn btn-outline-info ms-1 ps-2 mb-2" href="{{ .paper.pdf }}" target="_blank" rel="noopener" role="button">PDF</a>
+        {{ end }}
+        <!-- {{ if .paper.bibtex }}
+        <a class="btn btn-outline-info ms-1 ps-2 mb-2" href="{{ .paper.bibtex }}" target="_blank" rel="noopener" role="button">BiBTeX</a>
+        {{ end }} -->
+        {{ if .paper.url }}
+        <a class="btn btn-outline-info ms-1 ps-2 mb-2" href="{{ .paper.url }}" target="_blank" rel="noopener" role="button">Detail</a>
+        {{ end }}
       </div>
-      {{ end }}
     </div>
   </div>
 </div>

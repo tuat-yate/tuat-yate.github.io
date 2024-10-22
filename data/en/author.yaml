@@ -8,9 +8,10 @@ image: "images/main-icon.jpeg"
 contactInfo:
   email: "h-kojima@msp-lab.org"
   github: "tuat-yate"
+  twitter: "h_kojima_sp"
 
 # some summary about what you do
 summary:
-  - I am a junior-researcher.
+  - I am a graduate student.
   - I am a programmer.
   - I am a data-scintist.
