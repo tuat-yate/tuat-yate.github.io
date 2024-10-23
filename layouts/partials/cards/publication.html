@@ -34,13 +34,34 @@
       
       <div class="details-btn">
         {{ if .paper.pdf }}
-        <a class="btn btn-outline-info ms-1 ps-2 mb-2" href="{{ .paper.pdf }}" target="_blank" rel="noopener" role="button">PDF</a>
+        <a class="btn btn-outline-info text-center" href="{{ .paper.pdf }}" target="_blank" rel="noopener" role="button">PDF</a>
         {{ end }}
-        <!-- {{ if .paper.bibtex }}
-        <a class="btn btn-outline-info ms-1 ps-2 mb-2" href="{{ .paper.bibtex }}" target="_blank" rel="noopener" role="button">BiBTeX</a>
-        {{ end }} -->
+        {{ if .paper.bibtex }}
+        <a class="btn btn-outline-info text-center" rel="noopener" role="button" id="btn-{{ .paper.bibtex.id }}">BiBTeX</a>
+        <script>
+          const tagText = document.getElementById('tagText')
+
+          document.getElementById('btn-{{ .paper.bibtex.id }}').addEventListener('click', () => {
+            const tagValue = "{{ .paper.bibtex.data }}";
+            copyToClipboard(tagValue);
+            alert("copied!!")
+          })
+
+          function copyToClipboard (tagValue) {
+            if (navigator.clipboard) {
+              return navigator.clipboard.writeText(tagValue).then(function () {
+              })
+            } else {
+              tagText.select()
+              document.execCommand('copy')
+            }
+          }
+
+        </script>
+
+        {{ end }}
         {{ if .paper.url }}
-        <a class="btn btn-outline-info ms-1 ps-2 mb-2" href="{{ .paper.url }}" target="_blank" rel="noopener" role="button">Detail</a>
+        <a class="btn btn-outline-info text-center" href="{{ .paper.url }}" target="_blank" rel="noopener" role="button">Detail</a>
         {{ end }}
       </div>
     </div>

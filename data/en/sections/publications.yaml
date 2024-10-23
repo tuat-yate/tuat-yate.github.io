@@ -169,6 +169,19 @@ publications:
   paper:
     summary: 
     url: "https://doi.org/10.1109/ICASSP49357.2023.10094838"
+    bibtex:
+      id: "10094838"
+      data: "@INPROCEEDINGS{10094838,
+  author={Kojima, Hayate and Noguchi, Hikari and Yamada, Koki and Tanaka, Yuichi},
+  booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Restoration of Time-Varying Graph Signals using Deep Algorithm Unrolling}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Temperature distribution;Sea surface;Smoothing methods;Finite impulse response filters;Signal processing algorithms;Training data;Time-domain analysis;Time-varying graph signals;graph signal processing;deep algorithm unrolling},
+  doi={10.1109/ICASSP49357.2023.10094838}}
+"
   categories: ["international-conference", "2023"]
   tags: ["International Conference", "2023"]
 
@@ -201,6 +214,19 @@ publications:
   paper:
     summary: 
     url: https://doi.org/10.1109/CANDARW.2019.00059
+    bibtex: 
+      id: "8951520"
+      data: "@INPROCEEDINGS{8951520,
+  author={Veloo, Kesevan and Kojima, Hayate and Takata, Shogo and Nakamura, Masashi and Nakajo, Hironori},
+  booktitle={2019 Seventh International Symposium on Computing and Networking Workshops (CANDARW)}, 
+  title={Interactive Cultivation System for the Future IoT-Based Agriculture}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={298-304},
+  keywords={smart agriculture;urban agriculture;Internet of Things (IOT);Artificial Intelligence (AI);embedded system},
+  doi={10.1109/CANDARW.2019.00059}}
+"
   categories: ["international-conference", "2019"]
   tags: ["International Conference", "2019"]
 
@@ -219,7 +245,18 @@ publications:
     summary: 
     url: "https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=198767&item_no=1&page_id=13&block_id=8"
     pdf: "https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&item_id=198767&file_id=1&file_no=1"
-    # bibtex: "@inproceedings{weko_198767_1,\nauthor	 = \"小島,颯 and 高田,勝悟 and Kesevan,Veloo and 仲村,将司 and 中條,拓伯\",\ntitle	 = \"家庭菜園におけるインタラクティブ栽培センシングシステムの実現\",\nbooktitle	 = \"組込みシステムシンポジウム2019論文集\",\nyear 	 = \"2019\",\nvolume	 = \"2019\",\nnumber	 = \"\",\npages	 = \"5--8\",\nmonth	 = \"aug\"\n}"
+    bibtex: 
+      id: "weko_198767_1"
+      data: "@inproceedings{weko_198767_1,
+   author	 = {小島,颯 and 高田,勝悟 and Kesevan,Veloo and 仲村,将司 and 中條,拓伯},
+   title	 = {家庭菜園におけるインタラクティブ栽培センシングシステムの実現},
+   booktitle	 = {組込みシステムシンポジウム2019論文集},
+   year 	 = {2019},
+   volume	 = {2019},
+   number	 = {},
+   pages	 = {5--8},
+   month	 = {aug}
+}"
   categories: ["domestic-conference", "2019"]
   tags: ["Domestic Conference", "2019"]
   
