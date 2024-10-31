@@ -59,7 +59,19 @@ publications:
   - name: Y. Tanaka
   paper:
     summary: 
-    pdf: https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0002322.pdf
+    pdf: "https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0002322.pdf"
+    bibtex:
+      id: "10715194"
+      data: "@INPROCEEDINGS{10715194,
+  author={Kojima, Hayate and Higashi, Hiroshi and Tanaka, Yuichi},
+  booktitle={2024 32nd European Signal Processing Conference (EUSIPCO)}, 
+  title={Interpretable Graph Signal Denoising Using Regularization by Denoising}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={2322-2326},
+  keywords={Point cloud compression;Three-dimensional displays;Noise reduction;Europe;Closed box;Signal processing;Graph neural networks;Image restoration;Signal denoising;Optimization;Graph signal processing;regularization by denoising},
+  doi={}}"
   categories: ["international-conference", "2024"]
   tags: ["International Conference", "2024"]
 
@@ -180,8 +192,7 @@ publications:
   number={},
   pages={1-5},
   keywords={Temperature distribution;Sea surface;Smoothing methods;Finite impulse response filters;Signal processing algorithms;Training data;Time-domain analysis;Time-varying graph signals;graph signal processing;deep algorithm unrolling},
-  doi={10.1109/ICASSP49357.2023.10094838}}
-"
+  doi={10.1109/ICASSP49357.2023.10094838}}"
   categories: ["international-conference", "2023"]
   tags: ["International Conference", "2023"]
 
