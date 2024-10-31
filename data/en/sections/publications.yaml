@@ -59,6 +59,7 @@ publications:
   - name: Y. Tanaka
   paper:
     summary: 
+    url: "https://ieeexplore.ieee.org/document/10715194"
     pdf: "https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0002322.pdf"
     bibtex:
       id: "10715194"
