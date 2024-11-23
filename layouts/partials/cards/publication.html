@@ -39,7 +39,7 @@
         {{ if .paper.bibtex }}
         <a class="btn btn-outline-info text-center" rel="noopener" role="button" id="btn-{{ .paper.bibtex.id }}">BiBTeX</a>
         <script>
-          const tagText = document.getElementById('tagText')
+          var tagText = document.getElementById('tagText')
 
           document.getElementById('btn-{{ .paper.bibtex.id }}').addEventListener('click', () => {
             const tagValue = "{{ .paper.bibtex.data }}";
