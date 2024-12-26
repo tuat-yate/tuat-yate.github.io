@@ -31,6 +31,37 @@ buttons:
 
 publications:
 
+- title: "Regularization by Denoising を用いたグラフ信号のノイズ除去とその信号処理的解釈"
+  publishedIn:
+    name: "第39回信号処理シンポジウム"
+    date: "Dec. 2024"
+    url: "https://award-con.com/sips2024/"
+  authors:
+  - name: "小島颯"
+  - name: "東広志"
+  - name: "田中雄一"
+  paper:
+    summary: 
+  categories: ["domestic-conference", "2024"]
+  tags: ["Domestic Conference", "2024"]
+
+- title: "頂点特徴量を利用した非局所的マルチスケールグラフの構築"
+  publishedIn:
+    name: "第39回信号処理シンポジウム"
+    date: "Dec. 2024"
+    url: "https://award-con.com/sips2024/"
+  authors:
+  - name: "金子玲菜"
+  - name: "原惇也"
+  - name: "柳谷健太"
+  - name: "小島颯"
+  - name: "東広志"
+  - name: "田中雄一"
+  paper:
+    summary: 
+  categories: ["domestic-conference", "2024"]
+  tags: ["Domestic Conference", "2024"]
+
 - title: "Multiscale graph construction using non-local cluster features"
   publishedIn:
     name: "IEEE International Workshop on Machine Learning for Signal Processing (MLSP), London, UK"
