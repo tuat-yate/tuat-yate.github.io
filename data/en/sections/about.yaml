@@ -89,6 +89,12 @@ skills:
   icon: "devicon-tailwindcss-original"
 
 qualifications:
+- name: "IEEE SPS Japan Student Conference Paper Award"
+  year: "2024"
+
+- name: "Institute of Electronics, Information and Communication Engineers, Technical Committee on Image Engineering, IE Special Award"
+  year: "2024"
+
 - name: "Fundamental Information Technology Engineer Examination (in Japan)"
   year: "2021"
 
