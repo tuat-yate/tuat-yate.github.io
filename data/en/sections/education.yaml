@@ -10,9 +10,18 @@ section:
   # hideTitle: true
   
 degrees:
-- name: 
+- name: Ph.D student
   icon: fa-microscope
-  timeframe: 2023 - Present
+  timeframe: 2025 - Present
+  institution:
+    name: Graduate School of Engineering, The University of Osaka
+    # url: "#"
+    logo: /images/education/college.png
+    darkLogo: /images/education/college-dark.png
+
+- name: Master of Engineering
+  icon: fa-microscope
+  timeframe: 2023 - 2025
   institution:
     name: Graduate School of Engineering, Tokyo University of Agriculture and Technology
     # url: "#"

@@ -6,13 +6,29 @@
     <description>Recent content on Hayate Kojima&#39;s Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Tue, 04 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Publications</title>
+      <link>http://localhost:1313/posts/publications/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/publications/</guid>
+      <description>&lt;h3 id=&#34;international-conferences&#34;&gt;International Conferences&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;R. Kaneko, H. Kojima, K. Yanagiya, J. Hara, H. Higashi and Y. Tanaka, &amp;ldquo;Multiscale Graph Construction Using Non-Local Cluster Features,&amp;rdquo; 2024 IEEE 34th International Workshop on Machine Learning for Signal Processing (MLSP), London, United Kingdom, 2024, pp. 1-6, doi: 10.1109/MLSP58920.2024.10734767.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;H. Kojima, H. Higashi and Y. Tanaka, &amp;ldquo;Interpretable Graph Signal Denoising Using Regularization by Denoising,&amp;rdquo; 2024 32nd European Signal Processing Conference (EUSIPCO), Lyon, France, 2024, pp. 2322-2326, doi: 10.23919/EUSIPCO63174.2024.10715194.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>2024PCSJ/IMPS</title>
       <link>http://localhost:1313/posts/2024-pcsj-imps/</link>
       <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/2024-pcsj-imps/</guid>
-      <description>2024/11/25〜2024/11/27に開催された2024年度画像符号化シンポジウム・映像メディア処理シンポジウムにてIE特別賞記念講演を行いました． こちらより発表資料が閲覧できます．</description>
+      <description>&lt;p&gt;2024/11/25〜2024/11/27に開催された&lt;a href=&#34;https://www.pcsj-imps.org/archive/2024.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2024年度画像符号化シンポジウム・映像メディア処理シンポジウム&lt;/a&gt;にてIE特別賞記念講演を行いました．
+&lt;a href=&#34;https://drive.google.com/file/d/1HuGUQmQ8Yyhzl1Y64zufdixSMjJN7vK3/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こちら&lt;/a&gt;より発表資料が閲覧できます．&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -21,17 +37,43 @@
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/2023-sirius-extension/</guid>
-      <description>東京農工大学の二段階認証を自動入力するchrome拡張機能です． 本拡張機能はChrome Web Storeから導入できます．
-Usage ① 拡張機能をインストールする 公式リポジトリもしくはChrome Web Storeから拡張機能をインストールしてください． 公式リポジトリからダウンロードする場合は，TUAT-Autofill-Extension.zipを利用してください．
-② シークレットキーの確認 本拡張機能は東京農工大学統合認証システムで各個人に発行されるシークレットキーが必要です． シークレットキーは二段階アプリ認証の登録画面で確認することができます． 既にアプリ認証を登録済みの方は一旦解除する必要があります． 解除後，後述する方法で再登録を行ってください．
-③ 各種設定を入力する． chrome画面の拡張機能アイコン(パズルマーク)→TUAT Autofill Extension横の3点ボタン→オプション　をクリックしてください． その後，設定画面で各種情報を入力してください．
-保存を行うと，現時刻でのワンタイムパスワードが表示されます．ここで表示されたパスワードを②の「トークン」と表示されているところに入力して認証を行ってください． ここでトークンを認証サイトに入力しない場合，入力されたシークレットキーが無効となるため注意してください．
-アプリ認証を併用する場合は，②の画面で表示されているQRコードをアプリで読み込んでください．その後，拡張機能の設定画面に表示されているワンタイムパスワードとアプリ上の数字が一致していることを確認してから②のトークンに入力を行ってください．
-〜注意〜
-拡張機能画面に表示されるワンタイムパスワードは「保存」ボタンを押される度に更新されます．パスワードが弾かれた場合は時間経過でパスワードが変わっている可能性があるので，「保存」ボタンを押して再度お試しください． PCの時刻が本来の時刻と異なるためパスワードが一致しない事象が複数報告されています．パスワードが一致しない場合はPCの時刻同期を確認してください． 通常のパスワードと二段階認証のパスワードを両方登録することは極力避けるようにしてください．通常，拡張機能に登録されたデータは本来のサイト(農工大認証サイト)でしか確認できませんが，外部からの攻撃にあった場合に保存されているデータが読み取られる可能性があります．そのため，通常のパスワードは手入力するかchromeの自動入力機能を利用し，ワンタイムパスワードのみ本拡張機能で入力することをお勧めします． ④ 利用する chrome画面の拡張機能アイコン(パズルマーク)→TUAT Autofill Extension横の3点ボタン→サイトデータの読み込みと変更を行います→tuat.ex-tic.com　となっている場合，認証時にデータは自動で入力されます． ただし，パスワードを自動入力している場合には「次へ」ボタンは押されないようになっています．そのため，「次へ」ボタンは手で押下してください．
-その他/免責事項 本拡張機能は個人によって製作されたものであり，東京農工大学の公式の機能ではありません． 本拡張機能の利用によって，利用者及び第三者に生じた損害においては，責任を負わないものとします．
-拡張機能のアップデート及びバグ修正は積極的に行なって行くので，何かあれば連絡をお願いします．
-使っていただいた方は是非寄付をお願いします！</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://chrome.google.com/webstore/detail/tuat-autofill-extension/nnnckhaffpfnflhcgdhikjbkfdhnmode/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://img.shields.io/chrome-web-store/v/nnnckhaffpfnflhcgdhikjbkfdhnmode&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://chrome.google.com/webstore/detail/tuat-autofill-extension/nnnckhaffpfnflhcgdhikjbkfdhnmode/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://img.shields.io/chrome-web-store/users/nnnckhaffpfnflhcgdhikjbkfdhnmode&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://chrome.google.com/webstore/detail/tuat-autofill-extension/nnnckhaffpfnflhcgdhikjbkfdhnmode/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://img.shields.io/chrome-web-store/rating/nnnckhaffpfnflhcgdhikjbkfdhnmode&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;東京農工大学の二段階認証を自動入力するchrome拡張機能です．
+本拡張機能は&lt;a href=&#34;https://chromewebstore.google.com/detail/tuat-autofill-extension/nnnckhaffpfnflhcgdhikjbkfdhnmode&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chrome Web Store&lt;/a&gt;から導入できます．&lt;/p&gt;
+&lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
+&lt;h3 id=&#34;-拡張機能をインストールする&#34;&gt;① 拡張機能をインストールする&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/tuat-yate/TUAT-Autofill-Extension&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式リポジトリ&lt;/a&gt;もしくは&lt;a href=&#34;https://chromewebstore.google.com/detail/tuat-autofill-extension/nnnckhaffpfnflhcgdhikjbkfdhnmode&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chrome Web Store&lt;/a&gt;から拡張機能をインストールしてください．
+公式リポジトリからダウンロードする場合は，&lt;code&gt;TUAT-Autofill-Extension.zip&lt;/code&gt;を利用してください．&lt;/p&gt;
+&lt;h3 id=&#34;-シークレットキーの確認&#34;&gt;② シークレットキーの確認&lt;/h3&gt;
+&lt;p&gt;本拡張機能は東京農工大学統合認証システムで各個人に発行されるシークレットキーが必要です．
+シークレットキーは二段階アプリ認証の登録画面で確認することができます．
+既にアプリ認証を登録済みの方は一旦解除する必要があります．
+解除後，後述する方法で再登録を行ってください．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/tuat-yate/TUAT-Autofill-Extension/assets/56665094/9fd135f8-d571-453c-9dc6-3791b3ac7a39&#34; alt=&#34;スクリーンショット 2023-09-14 18 26 55&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;-各種設定を入力する&#34;&gt;③ 各種設定を入力する．&lt;/h3&gt;
+&lt;p&gt;chrome画面の拡張機能アイコン(パズルマーク)→TUAT Autofill Extension横の3点ボタン→オプション　をクリックしてください．
+&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;その後，設定画面で各種情報を入力してください．&lt;/p&gt;
+&lt;p&gt;保存を行うと，現時刻でのワンタイムパスワードが表示されます．ここで表示されたパスワードを②の「トークン」と表示されているところに入力して認証を行ってください．
+ここでトークンを認証サイトに入力しない場合，入力されたシークレットキーが無効となるため注意してください．&lt;/p&gt;
+&lt;p&gt;アプリ認証を併用する場合は，②の画面で表示されているQRコードをアプリで読み込んでください．その後，拡張機能の設定画面に表示されているワンタイムパスワードとアプリ上の数字が一致していることを確認してから②のトークンに入力を行ってください．&lt;/p&gt;
+&lt;p&gt;〜注意〜&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;拡張機能画面に表示されるワンタイムパスワードは「保存」ボタンを押される度に更新されます．パスワードが弾かれた場合は時間経過でパスワードが変わっている可能性があるので，「保存」ボタンを押して再度お試しください．&lt;/li&gt;
+&lt;li&gt;PCの時刻が本来の時刻と異なるためパスワードが一致しない事象が複数報告されています．パスワードが一致しない場合はPCの時刻同期を確認してください．&lt;/li&gt;
+&lt;li&gt;通常のパスワードと二段階認証のパスワードを両方登録することは極力避けるようにしてください．通常，拡張機能に登録されたデータは本来のサイト(農工大認証サイト)でしか確認できませんが，外部からの攻撃にあった場合に保存されているデータが読み取られる可能性があります．そのため，通常のパスワードは手入力するかchromeの自動入力機能を利用し，ワンタイムパスワードのみ本拡張機能で入力することをお勧めします．&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-利用する&#34;&gt;④ 利用する&lt;/h3&gt;
+&lt;p&gt;chrome画面の拡張機能アイコン(パズルマーク)→TUAT Autofill Extension横の3点ボタン→サイトデータの読み込みと変更を行います→tuat.ex-tic.com　となっている場合，認証時にデータは自動で入力されます．
+ただし，パスワードを自動入力している場合には「次へ」ボタンは押されないようになっています．そのため，「次へ」ボタンは手で押下してください．&lt;/p&gt;
+&lt;h2 id=&#34;その他免責事項&#34;&gt;その他/免責事項&lt;/h2&gt;
+&lt;p&gt;本拡張機能は個人によって製作されたものであり，東京農工大学の公式の機能ではありません．
+本拡張機能の利用によって，利用者及び第三者に生じた損害においては，責任を負わないものとします．&lt;/p&gt;
+&lt;p&gt;拡張機能のアップデート及びバグ修正は積極的に行なって行くので，何かあれば連絡をお願いします．&lt;/p&gt;
+&lt;p&gt;使っていただいた方は是非寄付をお願いします！&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.buymeacoffee.com/yate&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png&#34; alt=&#34;Buy Me A Coffee&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     
