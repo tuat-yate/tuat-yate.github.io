@@ -103,13 +103,13 @@
     <priority>0.1</priority>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/publications/</loc>
-    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2024-pcsj-imps/</loc>
     <lastmod>2024-11-23T00:00:00+00:00</lastmod>
