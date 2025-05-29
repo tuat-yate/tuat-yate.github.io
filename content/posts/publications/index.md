@@ -14,7 +14,7 @@ menu:
 ---
 
 ### Preprints
-1. **H. Kojima*** K. Takanami* J. Hara Y. Bandoh S. Takamura H. Higashi Y. Tanaka, "Multiscale graph construction using non-local cluster features," arXiv, 2025, doi: 	arXiv:2505.22175. (*: equal contribution)
+1. **H. Kojima*** K. Takanami* J. Hara Y. Bandoh S. Takamura H. Higashi Y. Tanaka, "Algorithm Unrolling-based Denoising of Multimodal Graph Signals," arXiv, 2025, doi: 	arXiv:2505.22175. (*: equal contribution)
 
 ### International Conferences
 1. R. Kaneko, **H. Kojima**, K. Yanagiya, J. Hara, H. Higashi and Y. Tanaka, "Multiscale Graph Construction Using Non-Local Cluster Features," 2024 IEEE 34th International Workshop on Machine Learning for Signal Processing (MLSP), London, United Kingdom, 2024, pp. 1-6, doi: 10.1109/MLSP58920.2024.10734767. 

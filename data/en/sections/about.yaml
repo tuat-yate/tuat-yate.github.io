@@ -30,7 +30,7 @@ socialLinks:
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/tuat-yate"
+  url: "https://www.github.com/kojima-msp"
 
 - name: Twitter
   icon: "fab fa-twitter"
@@ -89,6 +89,7 @@ skills:
   icon: "devicon-tailwindcss-original"
 
 qualifications:
+
 - name: "IEEE SPS Japan Student Conference Paper Award"
   year: "2024"
 
