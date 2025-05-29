@@ -6,7 +6,22 @@
     <description>Recent content in Posts on Hayate Kojima&#39;s Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Tue, 04 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Publications</title>
+      <link>http://localhost:1313/posts/publications/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/publications/</guid>
+      <description>&lt;h3 id=&#34;international-conferences&#34;&gt;International Conferences&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;R. Kaneko, H. Kojima, K. Yanagiya, J. Hara, H. Higashi and Y. Tanaka, &amp;ldquo;Multiscale Graph Construction Using Non-Local Cluster Features,&amp;rdquo; 2024 IEEE 34th International Workshop on Machine Learning for Signal Processing (MLSP), London, United Kingdom, 2024, pp. 1-6, doi: 10.1109/MLSP58920.2024.10734767.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;H. Kojima, H. Higashi and Y. Tanaka, &amp;ldquo;Interpretable Graph Signal Denoising Using Regularization by Denoising,&amp;rdquo; 2024 32nd European Signal Processing Conference (EUSIPCO), Lyon, France, 2024, pp. 2322-2326, doi: 10.23919/EUSIPCO63174.2024.10715194.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>2024PCSJ/IMPS</title>
       <link>http://localhost:1313/posts/2024-pcsj-imps/</link>
       <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>

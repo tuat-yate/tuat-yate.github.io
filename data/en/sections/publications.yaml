@@ -14,10 +14,14 @@ buttons:
   filter: "all"
 # - name: "Journal Papers"
 #   filter: "journal-papers"
+- name: "Preprint"
+  filter: "preprint"
 - name: "International Conference"
   filter: "international-conference"
 - name: "Domestic Conference"
   filter: "domestic-conference"
+- name: "2025"
+  filter: "2025"
 - name: "2024"
   filter: "2024"
 - name: "2023"
@@ -30,6 +34,27 @@ buttons:
 # your publications
 
 publications:
+
+- title: "Multiscale graph construction using non-local cluster features"
+  publishedIn:
+    name: "arXiv"
+    date: "May. 2025"
+    url: ""
+  authors:
+  - name: "H. Kojima*"
+  - name: "K. Takanami*"
+  - name: "J. Hara"
+  - name: "Y. Bandoh"
+  - name: "S. Takamura"
+  - name: "H. Higashi"
+  - name: "Y. Tanaka"
+  - name: "(*: equal contribution)"
+  paper:
+    summary: 
+    url: "https://arxiv.org/abs/2505.22175"
+    pdf: "https://arxiv.org/pdf/2505.22175"
+  categories: ["preprint", "2025"]
+  tags: ["Preprint", "2025"]
 
 - title: "Regularization by Denoising を用いたグラフ信号のノイズ除去とその信号処理的解釈"
   publishedIn:

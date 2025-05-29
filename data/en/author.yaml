@@ -7,7 +7,7 @@ image: "images/main-icon.jpeg"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "h-kojima@msp-lab.org"
-  github: "tuat-yate"
+  github: "kojima-msp"
   twitter: "h_kojima_sp"
 
 # some summary about what you do
