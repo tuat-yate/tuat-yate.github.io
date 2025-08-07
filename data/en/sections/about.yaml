@@ -89,7 +89,9 @@ skills:
   icon: "devicon-tailwindcss-original"
 
 qualifications:
-
+- name: "JASSO scholarship Refund Exemption for Excellent Students"
+  year: "2025"
+  
 - name: "IEEE SPS Japan Student Conference Paper Award"
   year: "2024"
 
