@@ -973,14 +973,14 @@
     }
     return destination;
   };
-  window.requestAnimFrame = function() {
+  window.requestAnimFrame = (function() {
     return window.requestAnimationFrame || window.webkitRequestAnimationFrame || window.mozRequestAnimationFrame || window.oRequestAnimationFrame || window.msRequestAnimationFrame || function(callback) {
       window.setTimeout(callback, 1e3 / 60);
     };
-  }();
-  window.cancelRequestAnimFrame = function() {
+  })();
+  window.cancelRequestAnimFrame = (function() {
     return window.cancelAnimationFrame || window.webkitCancelRequestAnimationFrame || window.mozCancelRequestAnimationFrame || window.oCancelRequestAnimationFrame || window.msCancelRequestAnimationFrame || clearTimeout;
-  }();
+  })();
   function hexToRgb(hex) {
     var shorthandRegex = /^#?([a-f\d])([a-f\d])([a-f\d])$/i;
     hex = hex.replace(shorthandRegex, function(m, r, g, b) {
