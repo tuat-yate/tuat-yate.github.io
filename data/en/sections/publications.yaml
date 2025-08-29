@@ -32,8 +32,25 @@ buttons:
   filter: "2019"
 
 # your publications
-
 publications:
+
+- title: "深層展開の頑健性向上のための学習パラメータ調整"
+  publishedIn:
+    name: "電子情報通信学会 信号処理研究会 (SIP)"
+    date: "Aug. 2025"
+    url: "https://ken.ieice.org/ken/paper/202508296cma/"
+  authors:
+  - name: "小島颯"
+  - name: "中谷光佑"
+  - name: "原惇也"
+  - name: "東広志"
+  - name: "田中雄一"
+  paper:
+    summary: 
+    url: "https://ken.ieice.org/ken/paper/202508296cma/"
+    
+  categories: ["domestic-conference", "2025"]
+  tags: ["Domestic Conference", "2025"]
 
 - title: "Algorithm Unrolling-based Denoising of Multimodal Graph Signals"
   publishedIn:
