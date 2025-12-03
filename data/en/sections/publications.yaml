@@ -34,6 +34,22 @@ buttons:
 # your publications
 publications:
 
+- title: "深層展開の学習パラメータのパラメータ化およびその収束に関する一検討"
+  publishedIn:
+    name: "第40回信号処理シンポジウム"
+    date: "Nov. 2025"
+    url: "https://award-con.com/sips2025/"
+  authors:
+  - name: "中谷光佑"
+  - name: "小島颯"
+  - name: "田中雄一"
+  paper:
+    summary: 
+    url: "https://award-con.com/sips2025/"
+    
+  categories: ["domestic-conference", "2025"]
+  tags: ["Domestic Conference", "2025"]
+
 - title: "深層展開の頑健性向上のための学習パラメータ調整"
   publishedIn:
     name: "電子情報通信学会 信号処理研究会 (SIP)"
