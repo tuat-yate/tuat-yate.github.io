@@ -34,6 +34,22 @@ buttons:
 # your publications
 publications:
 
+- title: "Graph Signal Denoising Using Regularization by Denoising and Its Parameter Estimation"
+  publishedIn:
+    name: "arXiv"
+    date: "Dec. 2025"
+    url: ""
+  authors:
+  - name: "H. Kojima"
+  - name: "H. Higashi"
+  - name: "Y. Tanaka"
+  paper:
+    summary: 
+    url: "https://arxiv.org/abs/2512.14213"
+    pdf: "https://arxiv.org/pdf/2512.14213"
+  categories: ["preprint", "2025"]
+  tags: ["Preprint", "2025"]
+
 - title: "深層展開の学習パラメータのパラメータ化およびその収束に関する一検討"
   publishedIn:
     name: "第40回信号処理シンポジウム"
@@ -162,6 +178,20 @@ publications:
   pages={2322-2326},
   keywords={Point cloud compression;Three-dimensional displays;Noise reduction;Europe;Closed box;Signal processing;Graph neural networks;Image restoration;Signal denoising;Optimization;Graph signal processing;regularization by denoising},
   doi={}}"
+  categories: ["international-conference", "2024"]
+  tags: ["International Conference", "2024"]
+
+- title: "GSP-Traffic Dataset: Graph Signal Processing Dataset Based on Traffic Simulation"
+  publishedIn:
+    name: Graph Signal Analysis & Learning Workshop (GSAL), Osaka, Japan
+    date: Jul. 2024
+    url: https://www.greeniot.org/gsal/program
+  authors:
+  - name: H. Kojima
+  - name: H. Higashi
+  - name: Y. Tanaka
+  paper:
+    summary: 
   categories: ["international-conference", "2024"]
   tags: ["International Conference", "2024"]
 
