@@ -150,6 +150,8 @@ publications:
   - name: "Y. Tanaka"
   paper:
     summary: 
+    url: "https://ieeexplore.ieee.org/document/10734767"
+    pdf: "https://arxiv.org/pdf/2411.08371"
   categories: ["international-conference", "2024"]
   tags: ["International Conference", "2024"]
 
@@ -248,7 +250,7 @@ publications:
 - title: "Human Pose Refinement Using Line Graphs"
   publishedIn:
     name: "ASPIRE Workshop, Hiroshima, Japan"
-    date: "Feb. 2024"
+    date: "Mar. 2024"
     url: "https://www.greeniot.org/aspire_2024/"
   authors:
   - name: "H. Kojima"
