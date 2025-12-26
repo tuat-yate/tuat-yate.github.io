@@ -197,21 +197,6 @@ publications:
   categories: ["international-conference", "2024"]
   tags: ["International Conference", "2024"]
 
-- title: "GSP-Traffic Dataset: Graph Signal Processing Dataset Based on Traffic Simulation"
-  publishedIn:
-    name: Graph Signal Processing Workshop, Delft, Netherlands
-    date: Jun. 2024
-    url: https://gspworkshop.org/
-  authors:
-  - name: R. Kumagai
-  - name: H. Kojima
-  - name: H. Higashi
-  - name: Y. Tanaka
-  paper:
-    summary: 
-  categories: ["international-conference", "2024"]
-  tags: ["International Conference", "2024"]
-
 - title: "GSP-Traffic Dataset: グラフ上データ解析のための交通流シミュレーションに基づくデータセット"
   publishedIn:
     name: "電子情報通信学会 信号処理研究会 (SIP)"
@@ -378,18 +363,6 @@ publications:
     summary: 
     url: "https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=198767&item_no=1&page_id=13&block_id=8"
     pdf: "https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&item_id=198767&file_id=1&file_no=1"
-    bibtex: 
-      id: "weko_198767_1"
-      data: "@inproceedings{weko_198767_1,
-   author	 = {小島,颯 and 高田,勝悟 and Kesevan,Veloo and 仲村,将司 and 中條,拓伯},
-   title	 = {家庭菜園におけるインタラクティブ栽培センシングシステムの実現},
-   booktitle	 = {組込みシステムシンポジウム2019論文集},
-   year 	 = {2019},
-   volume	 = {2019},
-   number	 = {},
-   pages	 = {5--8},
-   month	 = {aug}
-}"
   categories: ["domestic-conference", "2019"]
   tags: ["Domestic Conference", "2019"]
   
