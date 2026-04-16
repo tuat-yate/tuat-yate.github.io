@@ -13,10 +13,10 @@ menu:
 # math: true
 ---
 
-### Preprints
-1. **H. Kojima**, H. Higashi Y. Tanaka, "Graph Signal Denoising Using Regularization by Denoising and Its Parameter Estimation," arXiv, 2025, doi: 10.48550/arXiv.2512.14213.
-   
-2. **H. Kojima***, K. Takanami*, J. Hara, Y. Bandoh, S. Takamura, H. Higashi and Y. Tanaka, "Algorithm Unrolling-based Denoising of Multimodal Graph Signals," arXiv, 2025, doi: 10.48550/arXiv.2505.22175. (*: equal contribution)
+### Journal Papers
+1. **H. Kojima***, K. Takanami*, J. Hara, Y. Bandoh, S. Takamura, H. Higashi and Y. Tanaka, "Algorithm Unrolling-based Denoising of Multimodal Graph Signals," IEEE Transactions on Signal and Information Processing over Networks, doi: 10.1109/TSIPN.2026.3683184. (*: equal contribution)
+
+2. **H. Kojima**, H. Higashi and Y. Tanaka, "Graph Signal Denoising Using Regularization by Denoising and Its Parameter Estimation," APSIPA Transactions on Signal and Information Processing, in press, doi: 10.48550/arXiv.2512.14213.
 
 ### International Conferences
 1. R. Kaneko, **H. Kojima**, K. Yanagiya, J. Hara, H. Higashi and Y. Tanaka, "Multiscale Graph Construction Using Non-Local Cluster Features," 2024 IEEE 34th International Workshop on Machine Learning for Signal Processing (MLSP), London, United Kingdom, 2024, pp. 1-6, doi: 10.1109/MLSP58920.2024.10734767. 
@@ -37,18 +37,22 @@ menu:
 
 2. **小島 颯**，中谷 光佑, 原 惇也, 東 広志，田中 雄一, “深層展開の頑健性向上のための学習パラメータ調整,” 電子情報通信学会 信号処理研究会 (SIP), 2025年08月. 
 
-3. **小島 颯**，東 広志，田中 雄一, “Regularization by Denoising を用いたグラフ信号のノイズ除去とその信号処理的解釈,” 第39回信号処理シンポジウム, 2024年12月. 
+3. 熊谷 塁，**小島 颯**，原 惇也，東 広志，田中 雄一, “GSP Japan-Traffic Dataset: 実測道路交通量に基づく時系列グラフ信号データセット,” 電子情報通信学会 信号処理研究会 (SIP), 2025年08月. 
+
+4. 赤林 知哉，**小島 颯**，原 惇也，東 広志，田中 雄一, “ノード数が変化する時変グラフに対するクラスタリング,” 電子情報通信学会 信号処理研究会 (SIP), 2025年03月. 
+
+5. **小島 颯**，東 広志，田中 雄一, “Regularization by Denoising を用いたグラフ信号のノイズ除去とその信号処理的解釈,” 第39回信号処理シンポジウム, 2024年12月. 
    
-4. 金子玲菜，原 惇也，柳谷 健太，**小島 颯**，東 広志，田中 雄一, “頂点特徴量を利用した非局所的マルチスケールグラフの構築,” 第39回信号処理シンポジウム, 2024年12月. 
+6. 金子玲菜，原 惇也，柳谷 健太，**小島 颯**，東 広志，田中 雄一, “頂点特徴量を利用した非局所的マルチスケールグラフの構築,” 第39回信号処理シンポジウム, 2024年12月. 
   
-5. 熊谷 塁，**小島 颯**，東 広志，田中 雄一, “GSP-Traffic Dataset:グラフ上データ解析のための交通流シミュレーションに基づくデータセット” 電子情報通信学会 信号処理研究会 (SIP), 2024年06月. 
+7. 熊谷 塁，**小島 颯**，東 広志，田中 雄一, “GSP-Traffic Dataset:グラフ上データ解析のための交通流シミュレーションに基づくデータセット” 電子情報通信学会 信号処理研究会 (SIP), 2024年06月. 
 
-6. 高波 圭吾，**小島 颯**，原 惇也，坂東 幸浩，高村 誠之，東 広志，田中 雄一, “深層展開を利用した多モーダルグラフ信号のグラフ学習を伴うノイズ除去,” 電子情報通信学会 画像工学研究会 (IE), 2024年03月. 
+8. 高波 圭吾，**小島 颯**，原 惇也，坂東 幸浩，高村 誠之，東 広志，田中 雄一, “深層展開を利用した多モーダルグラフ信号のグラフ学習を伴うノイズ除去,” 電子情報通信学会 画像工学研究会 (IE), 2024年03月. 
 
-7. **小島 颯**，東 広志，田中 雄一, “Graph-RED: Regularization by Denoising を用いたグラフ信号のノイズ除去,” 第38回信号処理シンポジウム, 2023年11月. 
+9. **小島 颯**，東 広志，田中 雄一, “Graph-RED: Regularization by Denoising を用いたグラフ信号のノイズ除去,” 第38回信号処理シンポジウム, 2023年11月. 
 
-8. **小島 颯**，田中 雄一, “ライングラフを用いた人体ポーズデータの修復,” 電子情報通信学会 信号処理研究会 (SIP), 2023年08月. 
+10. **小島 颯**，田中 雄一, “ライングラフを用いた人体ポーズデータの修復,” 電子情報通信学会 信号処理研究会 (SIP), 2023年08月. 
 
-9. **小島 颯**，山田 宏樹，野口 ひかり，田中 雄一, “深層展開を用いた時変グラフ信号の再構成,” 第37回信号処理シンポジウム, 2022年12月. 
+11. **小島 颯**，山田 宏樹，野口 ひかり，田中 雄一, “深層展開を用いた時変グラフ信号の再構成,” 第37回信号処理シンポジウム, 2022年12月. 
 
-10. **小島 颯**，高田 勝悟，Kesevan Veloo，仲村 将司，中條 拓伯, “家庭菜園におけるインタラクティブ栽培センシングシステムの実現,” 組込みシステムシンポジウム, 2019年08月. 
+12. **小島 颯**，高田 勝悟，Kesevan Veloo，仲村 将司，中條 拓伯, “家庭菜園におけるインタラクティブ栽培センシングシステムの実現,” 組込みシステムシンポジウム, 2019年08月. 

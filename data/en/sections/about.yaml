@@ -89,10 +89,15 @@ skills:
   icon: "devicon-tailwindcss-original"
 
 qualifications:
-- name: "IEEE SPS Tokyo Joint Chapter Student Award"
-  year: "2025"
 
-- name: "JASSO scholarship Refund Exemption for Excellent Students"
+- name: "Fundamental Information Technology Engineer Examination (in Japan)"
+  year: "2021"
+
+- name: "CG-ARTS CG Engineer Certification Test (in Japan)"
+  year: "2020"
+
+awards:
+- name: "IEEE SPS Tokyo Joint Chapter Student Award"
   year: "2025"
   
 - name: "IEEE SPS Japan Student Conference Paper Award"
@@ -101,11 +106,12 @@ qualifications:
 - name: "Institute of Electronics, Information and Communication Engineers, Technical Committee on Image Engineering, IE Special Award"
   year: "2024"
 
-- name: "Fundamental Information Technology Engineer Examination (in Japan)"
-  year: "2021"
+grants:
+- name: "Japan Society for the Promotion of Science (JSPS) Research Fellowship for Young Scientists (DC1)"
+  year: "2025"
 
-- name: "CG-ARTS CG Engineer Certification Test (in Japan)"
-  year: "2020"
+- name: "JASSO scholarship Refund Exemption for Excellent Students"
+  year: "2025"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.

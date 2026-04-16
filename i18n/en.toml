@@ -136,4 +136,10 @@ other = "Skills"
 other = "Contacts"
 
 [qualifications]
-other = "Qualifications / Awards / Grants"
+other = "Qualifications"
+
+[awards]
+other = "Awards"
+
+[grants]
+other = "Grants"

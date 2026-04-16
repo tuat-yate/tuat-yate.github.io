@@ -130,3 +130,9 @@ other = "Contacts"
 
 [qualifications]
 other = "資格"
+
+[awards]
+other = "受賞"
+
+[grants]
+other = "競争的資金"

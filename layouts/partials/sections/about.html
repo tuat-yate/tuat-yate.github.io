@@ -60,6 +60,20 @@
         }
       </style>
 
+      <h5 class="p-1">{{ i18n "awards" }}:</h5>
+      <ul class="text-container ms-auto p-1 inside">
+          {{ range .awards }}
+          <li>{{ .name }}, {{.year}}</li>
+          {{ end }}
+      </ul>
+
+      <h5 class="p-1">{{ i18n "grants" }}:</h5>
+      <ul class="text-container ms-auto p-1 inside">
+          {{ range .grants }}
+          <li>{{ .name }}, {{.year}}</li>
+          {{ end }}
+      </ul>
+
       <h5 class="p-1">{{ i18n "qualifications" }}:</h5>
       <ul class="text-container ms-auto p-1 inside">
           {{ range .qualifications }}

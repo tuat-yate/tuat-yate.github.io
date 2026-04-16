@@ -12,10 +12,10 @@ section:
 buttons:
 - name: All
   filter: "all"
-# - name: "Journal Papers"
-#   filter: "journal-papers"
-- name: "Preprint"
-  filter: "preprint"
+- name: "Journal Papers"
+  filter: "journal-papers"
+# - name: "Preprint"
+#   filter: "preprint"
 - name: "International Conference"
   filter: "international-conference"
 - name: "Domestic Conference"
@@ -34,11 +34,35 @@ buttons:
 # your publications
 publications:
 
+- title: "Algorithm Unrolling-based Denoising of Multimodal Graph Signals"
+  publishedIn:
+    name: "IEEE Transactions on Signal and Information Processing over Networks (early access)"
+    date: "Apr. 2026"
+    url: "https://signalprocessingsociety.org/publications-resources/ieee-transactions-signal-and-information-processing-over-networks"
+  authors:
+  - name: "H. Kojima*"
+  - name: "K. Takanami*"
+  - name: "J. Hara"
+  - name: "Y. Bandoh"
+  - name: "S. Takamura"
+  - name: "H. Higashi"
+  - name: "Y. Tanaka"
+  - name: "(*: equal contribution)"
+  paper:
+    summary: 
+    url: "https://ieeexplore.ieee.org/document/11479865"
+    pdf: "https://arxiv.org/pdf/2505.22175"
+    bibtex:
+      id: "11479865"
+      data: 'H. Kojima et al., "Algorithm Unrolling-based Denoising of Multimodal Graph Signals," in IEEE Transactions on Signal and Information Processing over Networks, doi: 10.1109/TSIPN.2026.3683184.keywords: {Radio broadcasting;Frequency modulation;Filtering;Filters;Low-pass filters;Circuits and systems;Band-pass filters;Filtering theory;Collaborative filtering;Filter banks;Multimodal data;signal denoising;graph learning;deep algorithm unrolling},'
+  categories: ["journal-papers", "2026"]
+  tags: ["Journal Paper", "2026"]
+
 - title: "Graph Signal Denoising Using Regularization by Denoising and Its Parameter Estimation"
   publishedIn:
-    name: "arXiv"
-    date: "Dec. 2025"
-    url: ""
+    name: "APSIPA Transactions on Signal and Information Processing (in press)"
+    date: "Apr. 2026"
+    url: "https://www.emerald.com/atsip"
   authors:
   - name: "H. Kojima"
   - name: "H. Higashi"
@@ -47,8 +71,8 @@ publications:
     summary: 
     url: "https://arxiv.org/abs/2512.14213"
     pdf: "https://arxiv.org/pdf/2512.14213"
-  categories: ["preprint", "2025"]
-  tags: ["Preprint", "2025"]
+  categories: ["journal-papers", "2026"]
+  tags: ["Journal Paper", "2026"]
 
 - title: "深層展開の学習パラメータのパラメータ化およびその収束に関する一検討"
   publishedIn:
@@ -84,26 +108,41 @@ publications:
   categories: ["domestic-conference", "2025"]
   tags: ["Domestic Conference", "2025"]
 
-- title: "Algorithm Unrolling-based Denoising of Multimodal Graph Signals"
+- title: "GSP Japan-Traffic Dataset: 実測道路交通量に基づく時系列グラフ信号データセット"
   publishedIn:
-    name: "arXiv"
-    date: "May. 2025"
-    url: ""
+    name: "電子情報通信学会 信号処理研究会 (SIP)"
+    date: "Aug. 2025"
+    url: "https://ken.ieice.org/ken/paper/20250829ccma/"
   authors:
-  - name: "H. Kojima*"
-  - name: "K. Takanami*"
-  - name: "J. Hara"
-  - name: "Y. Bandoh"
-  - name: "S. Takamura"
-  - name: "H. Higashi"
-  - name: "Y. Tanaka"
-  - name: "(*: equal contribution)"
+  - name: "熊谷塁"
+  - name: "小島颯"
+  - name: "原惇也"
+  - name: "東広志"
+  - name: "田中雄一"
   paper:
     summary: 
-    url: "https://arxiv.org/abs/2505.22175"
-    pdf: "https://arxiv.org/pdf/2505.22175"
-  categories: ["preprint", "2025"]
-  tags: ["Preprint", "2025"]
+    url: "https://ken.ieice.org/ken/paper/20250829ccma/"
+    
+  categories: ["domestic-conference", "2025"]
+  tags: ["Domestic Conference", "2025"]
+
+- title: "ノード数が変化する時変グラフに対するクラスタリング"
+  publishedIn:
+    name: "電子情報通信学会 信号処理研究会 (SIP)"
+    date: "Mar. 2025"
+    url: "https://ken.ieice.org/ken/paper/20250304Hcj0/"
+  authors:
+  - name: "赤林知哉"
+  - name: "小島颯"
+  - name: "原惇也"
+  - name: "東広志"
+  - name: "田中雄一"
+  paper:
+    summary: 
+    url: "https://ken.ieice.org/ken/paper/20250304Hcj0/"
+    
+  categories: ["domestic-conference", "2025"]
+  tags: ["Domestic Conference", "2025"]
 
 - title: "Regularization by Denoising を用いたグラフ信号のノイズ除去とその信号処理的解釈"
   publishedIn:
@@ -152,6 +191,9 @@ publications:
     summary: 
     url: "https://ieeexplore.ieee.org/document/10734767"
     pdf: "https://arxiv.org/pdf/2411.08371"
+    bibtex:
+      id: "10734767"
+      data: "@INPROCEEDINGS{10734767, author={Kaneko, Reina and Kojima, Hayate and Yanagiya, Kenta and Hara, Junya and Higashi, Hiroshi and Tanaka, Yuichi}, booktitle={2024 IEEE 34th International Workshop on Machine Learning for Signal Processing (MLSP)}, title={Multiscale Graph Construction Using Non-Local Cluster Features}, year={2024}, volume={}, number={}, pages={1-6}, keywords={Point cloud compression;Image segmentation;Machine learning algorithms;Image resolution;Signal processing algorithms;Machine learning;Nearest neighbor methods;Feature extraction;Vectors;Signal resolution;Multiscale graph;non-local features;optimal transport;variable k-nearest neighbor graph construction}, doi={10.1109/MLSP58920.2024.10734767}}"
   categories: ["international-conference", "2024"]
   tags: ["International Conference", "2024"]
 
@@ -179,7 +221,7 @@ publications:
   number={},
   pages={2322-2326},
   keywords={Point cloud compression;Three-dimensional displays;Noise reduction;Europe;Closed box;Signal processing;Graph neural networks;Image restoration;Signal denoising;Optimization;Graph signal processing;regularization by denoising},
-  doi={}}"
+  doi={10.23919/EUSIPCO63174.2024.10715194}}"
   categories: ["international-conference", "2024"]
   tags: ["International Conference", "2024"]
 
@@ -264,7 +306,7 @@ publications:
 - title: "ライングラフを用いた人体ポーズデータの修復"
   publishedIn:
     name: "電子情報通信学会 信号処理研究会 (SIP)"
-    date: "Oct. 2023"
+    date: "Aug. 2023"
     url: "https://ken.ieice.org/ken/program/index.php?tgs_regid=ff3d97a6088510dec2a5d0e71384bd62140d8e28c79634569b1c1d89bdb78f6a&tgid=IEICE-SIP"
   authors:
   - name: "小島颯"
