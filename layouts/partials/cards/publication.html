@@ -36,6 +36,9 @@
         {{ if .paper.pdf }}
         <a class="btn btn-outline-info text-center" href="{{ .paper.pdf }}" target="_blank" rel="noopener" role="button">PDF</a>
         {{ end }}
+        {{ if .paper.page }}
+        <a class="btn btn-outline-info text-center" href="{{ .paper.page }}" target="_blank" rel="noopener" role="button">Project Page</a>
+        {{ end }}
         {{ if .paper.bibtex }}
         <a class="btn btn-outline-info text-center" rel="noopener" role="button" id="btn-{{ .paper.bibtex.id }}">BiBTeX</a>
         <script>

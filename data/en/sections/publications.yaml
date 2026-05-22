@@ -36,7 +36,7 @@ publications:
 
 - title: "Algorithm Unrolling-based Denoising of Multimodal Graph Signals"
   publishedIn:
-    name: "IEEE Transactions on Signal and Information Processing over Networks (early access)"
+    name: "IEEE Transactions on Signal and Information Processing over Networks"
     date: "Apr. 2026"
     url: "https://signalprocessingsociety.org/publications-resources/ieee-transactions-signal-and-information-processing-over-networks"
   authors:
@@ -54,13 +54,23 @@ publications:
     pdf: "https://arxiv.org/pdf/2505.22175"
     bibtex:
       id: "11479865"
-      data: 'H. Kojima et al., "Algorithm Unrolling-based Denoising of Multimodal Graph Signals," in IEEE Transactions on Signal and Information Processing over Networks, doi: 10.1109/TSIPN.2026.3683184.keywords: {Radio broadcasting;Frequency modulation;Filtering;Filters;Low-pass filters;Circuits and systems;Band-pass filters;Filtering theory;Collaborative filtering;Filter banks;Multimodal data;signal denoising;graph learning;deep algorithm unrolling},'
+      data: '@ARTICLE{11479865,
+  author={Kojima, Hayate and Takanami, Keigo and Hara, Junya and Bandoh, Yukihiro and Takamura, Seishi and Higashi, Hiroshi and Tanaka, Yuichi},
+  journal={IEEE Transactions on Signal and Information Processing over Networks}, 
+  title={Algorithm Unrolling-Based Denoising of Multimodal Graph Signals}, 
+  year={2026},
+  volume={12},
+  number={},
+  pages={544-555},
+  keywords={Radio broadcasting;Frequency modulation;Filtering;Filters;Low-pass filters;Circuits and systems;Band-pass filters;Filtering theory;Collaborative filtering;Filter banks;Deep algorithm unrolling;graph learning;multimodal data;signal denoising},
+  doi={10.1109/TSIPN.2026.3683184}}'
+    page: "https://github.com/kojima-msp/MGSD_LLAP_DAU"
   categories: ["journal-papers", "2026"]
   tags: ["Journal Paper", "2026"]
 
 - title: "Graph Signal Denoising Using Regularization by Denoising and Its Parameter Estimation"
   publishedIn:
-    name: "APSIPA Transactions on Signal and Information Processing (in press)"
+    name: "APSIPA Transactions on Signal and Information Processing"
     date: "Apr. 2026"
     url: "https://www.emerald.com/atsip"
   authors:
@@ -69,8 +79,9 @@ publications:
   - name: "Y. Tanaka"
   paper:
     summary: 
-    url: "https://arxiv.org/abs/2512.14213"
-    pdf: "https://arxiv.org/pdf/2512.14213"
+    url: "https://www.emerald.com/atsip/article/15/1/332/1367519/Graph-signal-denoising-using-regularization-by"
+    pdf: "https://www.emerald.com/atsip/article-pdf/15/1/332/11618390/atsip-12-2025-0110en.pdf"
+    page: "https://github.com/kojima-msp/GRED_DAU"
   categories: ["journal-papers", "2026"]
   tags: ["Journal Paper", "2026"]
 
