@@ -19,7 +19,10 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: ''
+summary: |
+  Hayate Kojima received the B.E. and M.E. degrees in electrical engineering and computer science from the Tokyo University of Agriculture and Technology, Tokyo, Japan, in 2023 and 2025, respectively. He is currently working toward the Ph.D. degree at the Graduate School of Engineering, the University of Osaka, Osaka, Japan.
+
+  Since 2025, he has been a Research Fellow (DC1) of the Japan Society for the Promotion of Science (JSPS). His research interests include graph signal processing, machine learning for signal processing, and interpretable deep learning.
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
