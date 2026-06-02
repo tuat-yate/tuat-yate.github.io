@@ -20,6 +20,8 @@ buttons:
   filter: "international-conference"
 - name: "Domestic Conference"
   filter: "domestic-conference"
+- name: "2026"
+  filter: "2026"
 - name: "2025"
   filter: "2025"
 - name: "2024"
@@ -54,16 +56,6 @@ publications:
     pdf: "https://arxiv.org/pdf/2505.22175"
     bibtex:
       id: "11479865"
-      data: '@ARTICLE{11479865,
-  author={Kojima, Hayate and Takanami, Keigo and Hara, Junya and Bandoh, Yukihiro and Takamura, Seishi and Higashi, Hiroshi and Tanaka, Yuichi},
-  journal={IEEE Transactions on Signal and Information Processing over Networks}, 
-  title={Algorithm Unrolling-Based Denoising of Multimodal Graph Signals}, 
-  year={2026},
-  volume={12},
-  number={},
-  pages={544-555},
-  keywords={Radio broadcasting;Frequency modulation;Filtering;Filters;Low-pass filters;Circuits and systems;Band-pass filters;Filtering theory;Collaborative filtering;Filter banks;Deep algorithm unrolling;graph learning;multimodal data;signal denoising},
-  doi={10.1109/TSIPN.2026.3683184}}'
     page: "https://github.com/kojima-msp/MGSD_LLAP_DAU"
   categories: ["journal-papers", "2026"]
   tags: ["Journal Paper", "2026"]
@@ -81,6 +73,8 @@ publications:
     summary: 
     url: "https://www.emerald.com/atsip/article/15/1/332/1367519/Graph-signal-denoising-using-regularization-by"
     pdf: "https://www.emerald.com/atsip/article-pdf/15/1/332/11618390/atsip-12-2025-0110en.pdf"
+    bibtex:
+      id: "ATSIP-12-2025-0110"
     page: "https://github.com/kojima-msp/GRED_DAU"
   categories: ["journal-papers", "2026"]
   tags: ["Journal Paper", "2026"]
@@ -204,7 +198,6 @@ publications:
     pdf: "https://arxiv.org/pdf/2411.08371"
     bibtex:
       id: "10734767"
-      data: "@INPROCEEDINGS{10734767, author={Kaneko, Reina and Kojima, Hayate and Yanagiya, Kenta and Hara, Junya and Higashi, Hiroshi and Tanaka, Yuichi}, booktitle={2024 IEEE 34th International Workshop on Machine Learning for Signal Processing (MLSP)}, title={Multiscale Graph Construction Using Non-Local Cluster Features}, year={2024}, volume={}, number={}, pages={1-6}, keywords={Point cloud compression;Image segmentation;Machine learning algorithms;Image resolution;Signal processing algorithms;Machine learning;Nearest neighbor methods;Feature extraction;Vectors;Signal resolution;Multiscale graph;non-local features;optimal transport;variable k-nearest neighbor graph construction}, doi={10.1109/MLSP58920.2024.10734767}}"
   categories: ["international-conference", "2024"]
   tags: ["International Conference", "2024"]
 
@@ -223,16 +216,6 @@ publications:
     pdf: "https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0002322.pdf"
     bibtex:
       id: "10715194"
-      data: "@INPROCEEDINGS{10715194,
-  author={Kojima, Hayate and Higashi, Hiroshi and Tanaka, Yuichi},
-  booktitle={2024 32nd European Signal Processing Conference (EUSIPCO)}, 
-  title={Interpretable Graph Signal Denoising Using Regularization by Denoising}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={2322-2326},
-  keywords={Point cloud compression;Three-dimensional displays;Noise reduction;Europe;Closed box;Signal processing;Graph neural networks;Image restoration;Signal denoising;Optimization;Graph signal processing;regularization by denoising},
-  doi={10.23919/EUSIPCO63174.2024.10715194}}"
   categories: ["international-conference", "2024"]
   tags: ["International Conference", "2024"]
 
@@ -343,16 +326,6 @@ publications:
     url: "https://doi.org/10.1109/ICASSP49357.2023.10094838"
     bibtex:
       id: "10094838"
-      data: "@INPROCEEDINGS{10094838,
-  author={Kojima, Hayate and Noguchi, Hikari and Yamada, Koki and Tanaka, Yuichi},
-  booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
-  title={Restoration of Time-Varying Graph Signals using Deep Algorithm Unrolling}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-5},
-  keywords={Temperature distribution;Sea surface;Smoothing methods;Finite impulse response filters;Signal processing algorithms;Training data;Time-domain analysis;Time-varying graph signals;graph signal processing;deep algorithm unrolling},
-  doi={10.1109/ICASSP49357.2023.10094838}}"
   categories: ["international-conference", "2023"]
   tags: ["International Conference", "2023"]
 
@@ -385,19 +358,8 @@ publications:
   paper:
     summary: 
     url: https://doi.org/10.1109/CANDARW.2019.00059
-    bibtex: 
+    bibtex:
       id: "8951520"
-      data: "@INPROCEEDINGS{8951520,
-  author={Veloo, Kesevan and Kojima, Hayate and Takata, Shogo and Nakamura, Masashi and Nakajo, Hironori},
-  booktitle={2019 Seventh International Symposium on Computing and Networking Workshops (CANDARW)}, 
-  title={Interactive Cultivation System for the Future IoT-Based Agriculture}, 
-  year={2019},
-  volume={},
-  number={},
-  pages={298-304},
-  keywords={smart agriculture;urban agriculture;Internet of Things (IOT);Artificial Intelligence (AI);embedded system},
-  doi={10.1109/CANDARW.2019.00059}}
-"
   categories: ["international-conference", "2019"]
   tags: ["International Conference", "2019"]
 

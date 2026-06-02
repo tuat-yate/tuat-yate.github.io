@@ -11,7 +11,7 @@
     <div class="card-header">
       <h5 class="card-title mb-0">{{ .title }}</h5>
       <div class="sub-title">
-        <span><a target="_blank" href="{{.publishedIn.url}}">{{ .publishedIn.name }}</a></span>
+        <span><a target="_blank" rel="noopener" href="{{.publishedIn.url}}">{{ .publishedIn.name }}</a></span>
         <span class="ms-2">{{ .publishedIn.date }}</span>
       </div>
       <div class="authors">
@@ -20,9 +20,11 @@
         {{ end }}
       </div>
     </div>
+    {{ with .paper.summary }}
     <div class="card-body">
-      <p>{{ .paper.summary | markdownify }}</p>
+      <p>{{ . | markdownify }}</p>
     </div>
+    {{ end }}
     <div class="card-footer">
       <div class="tags">
         {{ range $index,$tag:= .tags }}
@@ -36,35 +38,14 @@
         {{ if .paper.pdf }}
         <a class="btn btn-outline-info text-center" href="{{ .paper.pdf }}" target="_blank" rel="noopener" role="button">PDF</a>
         {{ end }}
+        {{ if .paper.url }}
+        <a class="btn btn-outline-info text-center" href="{{ .paper.url }}" target="_blank" rel="noopener" role="button">Official Page</a>
+        {{ end }}
         {{ if .paper.page }}
-        <a class="btn btn-outline-info text-center" href="{{ .paper.page }}" target="_blank" rel="noopener" role="button">Project Page</a>
+        <a class="btn btn-outline-info text-center" href="{{ .paper.page }}" target="_blank" rel="noopener" role="button">Code</a>
         {{ end }}
         {{ if .paper.bibtex }}
-        <a class="btn btn-outline-info text-center" rel="noopener" role="button" id="btn-{{ .paper.bibtex.id }}">BiBTeX</a>
-        <script>
-          var tagText = document.getElementById('tagText')
-
-          document.getElementById('btn-{{ .paper.bibtex.id }}').addEventListener('click', () => {
-            const tagValue = "{{ .paper.bibtex.data }}";
-            copyToClipboard(tagValue);
-            alert("copied!!")
-          })
-
-          function copyToClipboard (tagValue) {
-            if (navigator.clipboard) {
-              return navigator.clipboard.writeText(tagValue).then(function () {
-              })
-            } else {
-              tagText.select()
-              document.execCommand('copy')
-            }
-          }
-
-        </script>
-
-        {{ end }}
-        {{ if .paper.url }}
-        <a class="btn btn-outline-info text-center" href="{{ .paper.url }}" target="_blank" rel="noopener" role="button">Detail</a>
+        <a class="btn btn-outline-info text-center" href="{{ (printf "bibtex/%s.bib" .paper.bibtex.id) | relURL }}" download rel="noopener" role="button">BibTeX</a>
         {{ end }}
       </div>
     </div>

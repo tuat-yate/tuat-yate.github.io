@@ -23,7 +23,7 @@
             <i class="fa-solid fa-location-dot"></i> {{ .company.location }}
         </p>
         <!-- Add company overview -->
-        <p>{{ .company.overview | markdownify }}</p>
+        {{ with .company.overview }}<p>{{ . | markdownify }}</p>{{ end }}
     </div>
     <!-- Add the positions information -->
     <div class="positions">

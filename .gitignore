@@ -1,2 +1,15 @@
-public/*
+# Hugo build output
+public/
+resources/
+
+# Hugo build lock
+.hugo_build.lock
+
+# Node
+node_modules/
+
+# Claude
 .claude/
+
+# macOS
+.DS_Store
