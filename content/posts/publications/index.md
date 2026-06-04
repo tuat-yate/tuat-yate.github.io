@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-date: 2025-05-29
+date: 2026-06-04
 description: ""
 menu:
   sidebar:
@@ -14,22 +14,22 @@ menu:
 ---
 
 ### Journal Papers
-1. **H. Kojima***, K. Takanami*, J. Hara, Y. Bandoh, S. Takamura, H. Higashi and Y. Tanaka, "Algorithm Unrolling-based Denoising of Multimodal Graph Signals," IEEE Transactions on Signal and Information Processing over Networks, doi: 10.1109/TSIPN.2026.3683184. (*: equal contribution)
+1. **H. Kojima***, K. Takanami*, J. Hara, Y. Bandoh, S. Takamura, H. Higashi and Y. Tanaka, "Algorithm Unrolling-based Denoising of Multimodal Graph Signals," IEEE Transactions on Signal and Information Processing over Networks, vol. 12, pp. 544-555, 2026, doi: 10.1109/TSIPN.2026.3683184. (*: equal contribution)
 
-2. **H. Kojima**, H. Higashi and Y. Tanaka, "Graph Signal Denoising Using Regularization by Denoising and Its Parameter Estimation," APSIPA Transactions on Signal and Information Processing, in press, doi: 10.48550/arXiv.2512.14213.
+2. **H. Kojima**, H. Higashi and Y. Tanaka, "Graph Signal Denoising Using Regularization by Denoising and Its Parameter Estimation," APSIPA Transactions on Signal and Information Processing, vol. 15, no. 1, pp. 332-351, 2026, doi: 10.1108/ATSIP-12-2025-0110.
 
 ### International Conferences
 1. R. Kaneko, **H. Kojima**, K. Yanagiya, J. Hara, H. Higashi and Y. Tanaka, "Multiscale Graph Construction Using Non-Local Cluster Features," 2024 IEEE 34th International Workshop on Machine Learning for Signal Processing (MLSP), London, United Kingdom, 2024, pp. 1-6, doi: 10.1109/MLSP58920.2024.10734767. 
 
-1. **H. Kojima**, H. Higashi and Y. Tanaka, "Interpretable Graph Signal Denoising Using Regularization by Denoising," 2024 32nd European Signal Processing Conference (EUSIPCO), Lyon, France, 2024, pp. 2322-2326, doi: 10.23919/EUSIPCO63174.2024.10715194. 
+2. **H. Kojima**, H. Higashi and Y. Tanaka, "Interpretable Graph Signal Denoising Using Regularization by Denoising," 2024 32nd European Signal Processing Conference (EUSIPCO), Lyon, France, 2024, pp. 2322-2326, doi: 10.23919/EUSIPCO63174.2024.10715194. 
 
-2. R. Kumagi, **H. Kojima**, H. Higashi, Y. Tanaka, “GSP-Traffic Dataset: Graph Signal Processing Dataset Based on Traffic Simulation,” Graph Signal Analysis & Learning Workshop (GSAL), Osaka, Japan, Jul. 2024. 
+3. R. Kumagai, **H. Kojima**, H. Higashi, Y. Tanaka, “GSP-Traffic Dataset: Graph Signal Processing Dataset Based on Traffic Simulation,” Graph Signal Analysis & Learning Workshop (GSAL), Osaka, Japan, Jul. 2024. 
 
-3. **H. Kojima**, Y. Tanaka, “Human Pose Refinement Using Line Graphs,” ASPIRE Workshop, Hiroshima, Japan, Mar. 2024, doi: 10.34385/proc.80.P-14. 
+4. **H. Kojima**, Y. Tanaka, “Human Pose Refinement Using Line Graphs,” ASPIRE Workshop, Hiroshima, Japan, Mar. 2024, doi: 10.34385/proc.80.P-14. 
 
-4. **H. Kojima**, H. Noguchi, K. Yamada and Y. Tanaka, "Restoration of Time-Varying Graph Signals using Deep Algorithm Unrolling," ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, Greece, 2023, pp. 1-5, doi: 10.1109/ICASSP49357.2023.10094838. 
+5. **H. Kojima**, H. Noguchi, K. Yamada and Y. Tanaka, "Restoration of Time-Varying Graph Signals using Deep Algorithm Unrolling," ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, Greece, 2023, pp. 1-5, doi: 10.1109/ICASSP49357.2023.10094838. 
 
-5. K. Veloo, **H. Kojima**, S. Takata, M. Nakamura and H. Nakajo, "Interactive Cultivation System for the Future IoT-Based Agriculture," 2019 Seventh International Symposium on Computing and Networking Workshops (CANDARW), Nagasaki, Japan, 2019, pp. 298-304, doi: 10.1109/CANDARW.2019.00059. 
+6. K. Veloo, **H. Kojima**, S. Takata, M. Nakamura and H. Nakajo, "Interactive Cultivation System for the Future IoT-Based Agriculture," 2019 Seventh International Symposium on Computing and Networking Workshops (CANDARW), Nagasaki, Japan, 2019, pp. 298-304, doi: 10.1109/CANDARW.2019.00059. 
 
 ### Domestic Conferences
 
@@ -45,7 +45,7 @@ menu:
    
 6. 金子玲菜，原 惇也，柳谷 健太，**小島 颯**，東 広志，田中 雄一, “頂点特徴量を利用した非局所的マルチスケールグラフの構築,” 第39回信号処理シンポジウム, 2024年12月. 
   
-7. 熊谷 塁，**小島 颯**，東 広志，田中 雄一, “GSP-Traffic Dataset:グラフ上データ解析のための交通流シミュレーションに基づくデータセット” 電子情報通信学会 信号処理研究会 (SIP), 2024年06月. 
+7. 熊谷 塁，**小島 颯**，東 広志，田中 雄一, “GSP-Traffic Dataset: グラフ上データ解析のための交通流シミュレーションに基づくデータセット,” 電子情報通信学会 信号処理研究会 (SIP), 2024年06月. 
 
 8. 高波 圭吾，**小島 颯**，原 惇也，坂東 幸浩，高村 誠之，東 広志，田中 雄一, “深層展開を利用した多モーダルグラフ信号のグラフ学習を伴うノイズ除去,” 電子情報通信学会 画像工学研究会 (IE), 2024年03月. 
 
@@ -55,4 +55,4 @@ menu:
 
 11. **小島 颯**，山田 宏樹，野口 ひかり，田中 雄一, “深層展開を用いた時変グラフ信号の再構成,” 第37回信号処理シンポジウム, 2022年12月. 
 
-12. **小島 颯**，高田 勝悟，Kesevan Veloo，仲村 将司，中條 拓伯, “家庭菜園におけるインタラクティブ栽培センシングシステムの実現,” 組込みシステムシンポジウム, 2019年08月. 
+12. **小島 颯**，高田 勝悟，Kesevan Veloo，仲村 将司，中條 拓伯, “家庭菜園におけるインタラクティブ栽培センシングシステムの実現,” 組込みシステムシンポジウム, 2019年09月. 

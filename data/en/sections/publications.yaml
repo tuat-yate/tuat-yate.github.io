@@ -225,6 +225,7 @@ publications:
     date: Jul. 2024
     url: https://www.greeniot.org/gsal/program
   authors:
+  - name: R. Kumagai
   - name: H. Kojima
   - name: H. Higashi
   - name: Y. Tanaka
@@ -366,7 +367,7 @@ publications:
 - title: "家庭菜園におけるインタラクティブ栽培センシングシステムの実現"
   publishedIn:
     name: "組込みシステムシンポジウム"
-    date: "Oct. 2019"
+    date: "Sep. 2019"
     url: "https://www.ipsj.or.jp/kenkyukai/event/s-ess2019.html"
   authors:
   - name: "小島颯"
