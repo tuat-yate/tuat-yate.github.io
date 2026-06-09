@@ -1,0 +1,399 @@
+# section information
+section:
+  name: 出版物
+  id: publications
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: すべて
+  filter: "all"
+- name: "論文誌"
+  filter: "journal-papers"
+# - name: "Preprint"
+#   filter: "preprint"
+- name: "国際会議"
+  filter: "international-conference"
+- name: "国内会議"
+  filter: "domestic-conference"
+- name: "2026"
+  filter: "2026"
+- name: "2025"
+  filter: "2025"
+- name: "2024"
+  filter: "2024"
+- name: "2023"
+  filter: "2023"
+- name: "2022"
+  filter: "2022"
+- name: "2019"
+  filter: "2019"
+
+# your publications
+publications:
+
+- title: "Algorithm Unrolling-based Denoising of Multimodal Graph Signals"
+  publishedIn:
+    name: "IEEE Transactions on Signal and Information Processing over Networks"
+    date: "Apr. 2026"
+    url: "https://signalprocessingsociety.org/publications-resources/ieee-transactions-signal-and-information-processing-over-networks"
+  authors:
+  - name: "H. Kojima*"
+  - name: "K. Takanami*"
+  - name: "J. Hara"
+  - name: "Y. Bandoh"
+  - name: "S. Takamura"
+  - name: "H. Higashi"
+  - name: "Y. Tanaka"
+  - name: "(*: equal contribution)"
+  paper:
+    summary: 
+    url: "https://ieeexplore.ieee.org/document/11479865"
+    pdf: "https://arxiv.org/pdf/2505.22175"
+    bibtex:
+      id: "11479865"
+    page: "https://github.com/kojima-msp/MGSD_LLAP_DAU"
+  categories: ["journal-papers", "2026"]
+  tags: ["Journal Paper", "2026"]
+
+- title: "Graph Signal Denoising Using Regularization by Denoising and Its Parameter Estimation"
+  publishedIn:
+    name: "APSIPA Transactions on Signal and Information Processing"
+    date: "Apr. 2026"
+    url: "https://www.emerald.com/atsip"
+  authors:
+  - name: "H. Kojima"
+  - name: "H. Higashi"
+  - name: "Y. Tanaka"
+  paper:
+    summary: 
+    url: "https://www.emerald.com/atsip/article/15/1/332/1367519/Graph-signal-denoising-using-regularization-by"
+    pdf: "https://www.emerald.com/atsip/article-pdf/15/1/332/11618390/atsip-12-2025-0110en.pdf"
+    bibtex:
+      id: "ATSIP-12-2025-0110"
+    page: "https://github.com/kojima-msp/GRED_DAU"
+  categories: ["journal-papers", "2026"]
+  tags: ["Journal Paper", "2026"]
+
+- title: "深層展開の学習パラメータのパラメータ化およびその収束に関する一検討"
+  publishedIn:
+    name: "第40回信号処理シンポジウム"
+    date: "Nov. 2025"
+    url: "https://award-con.com/sips2025/"
+  authors:
+  - name: "中谷光佑"
+  - name: "小島颯"
+  - name: "田中雄一"
+  paper:
+    summary: 
+    url: "https://award-con.com/sips2025/"
+    
+  categories: ["domestic-conference", "2025"]
+  tags: ["Domestic Conference", "2025"]
+
+- title: "深層展開の頑健性向上のための学習パラメータ調整"
+  publishedIn:
+    name: "電子情報通信学会 信号処理研究会 (SIP)"
+    date: "Aug. 2025"
+    url: "https://ken.ieice.org/ken/paper/202508296cma/"
+  authors:
+  - name: "小島颯"
+  - name: "中谷光佑"
+  - name: "原惇也"
+  - name: "東広志"
+  - name: "田中雄一"
+  paper:
+    summary:
+    url: "https://ken.ieice.org/ken/paper/202508296cma/"
+    slides: "/slides/kojima_sip2508.pdf"
+  categories: ["domestic-conference", "2025"]
+  tags: ["Domestic Conference", "2025"]
+
+- title: "GSP Japan-Traffic Dataset: 実測道路交通量に基づく時系列グラフ信号データセット"
+  publishedIn:
+    name: "電子情報通信学会 信号処理研究会 (SIP)"
+    date: "Aug. 2025"
+    url: "https://ken.ieice.org/ken/paper/20250829ccma/"
+  authors:
+  - name: "熊谷塁"
+  - name: "小島颯"
+  - name: "原惇也"
+  - name: "東広志"
+  - name: "田中雄一"
+  paper:
+    summary: 
+    url: "https://ken.ieice.org/ken/paper/20250829ccma/"
+    
+  categories: ["domestic-conference", "2025"]
+  tags: ["Domestic Conference", "2025"]
+
+- title: "ノード数が変化する時変グラフに対するクラスタリング"
+  publishedIn:
+    name: "電子情報通信学会 信号処理研究会 (SIP)"
+    date: "Mar. 2025"
+    url: "https://ken.ieice.org/ken/paper/20250304Hcj0/"
+  authors:
+  - name: "赤林知哉"
+  - name: "小島颯"
+  - name: "原惇也"
+  - name: "東広志"
+  - name: "田中雄一"
+  paper:
+    summary: 
+    url: "https://ken.ieice.org/ken/paper/20250304Hcj0/"
+    
+  categories: ["domestic-conference", "2025"]
+  tags: ["Domestic Conference", "2025"]
+
+- title: "Regularization by Denoising を用いたグラフ信号のノイズ除去とその信号処理的解釈"
+  publishedIn:
+    name: "第39回信号処理シンポジウム"
+    date: "Dec. 2024"
+    url: "https://award-con.com/sips2024/"
+  authors:
+  - name: "小島颯"
+  - name: "東広志"
+  - name: "田中雄一"
+  paper:
+    summary:
+    slides: "/slides/kojima_sips2024.pdf"
+  categories: ["domestic-conference", "2024"]
+  tags: ["Domestic Conference", "2024"]
+
+- title: "頂点特徴量を利用した非局所的マルチスケールグラフの構築"
+  publishedIn:
+    name: "第39回信号処理シンポジウム"
+    date: "Dec. 2024"
+    url: "https://award-con.com/sips2024/"
+  authors:
+  - name: "金子玲菜"
+  - name: "原惇也"
+  - name: "柳谷健太"
+  - name: "小島颯"
+  - name: "東広志"
+  - name: "田中雄一"
+  paper:
+    summary: 
+  categories: ["domestic-conference", "2024"]
+  tags: ["Domestic Conference", "2024"]
+
+- title: "Multiscale graph construction using non-local cluster features"
+  publishedIn:
+    name: "IEEE International Workshop on Machine Learning for Signal Processing (MLSP), London, UK"
+    date: "Sep. 2024"
+    url: "https://2024.ieeemlsp.org/"
+  authors:
+  - name: "R. Kaneko"
+  - name: "H. Kojima"
+  - name: "K. Yanagiya"
+  - name: "J. Hara"
+  - name: "H. Higashi"
+  - name: "Y. Tanaka"
+  paper:
+    summary: 
+    url: "https://ieeexplore.ieee.org/document/10734767"
+    pdf: "https://arxiv.org/pdf/2411.08371"
+    bibtex:
+      id: "10734767"
+  categories: ["international-conference", "2024"]
+  tags: ["International Conference", "2024"]
+
+- title: Interpretable Graph Signal Denoising Using Regularization by Denoising
+  publishedIn:
+    name: European Signal Processing Conference (EUSIPCO), Lyon, France
+    date: Aug. 2024
+    url: "https://eusipcolyon.sciencesconf.org/"
+  authors:
+  - name: H. Kojima
+  - name: H. Higashi
+  - name: Y. Tanaka
+  paper:
+    summary: 
+    url: "https://ieeexplore.ieee.org/document/10715194"
+    pdf: "https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0002322.pdf"
+    poster: "/posters/poster_eusipco_kojima.pdf"
+    bibtex:
+      id: "10715194"
+  categories: ["international-conference", "2024"]
+  tags: ["International Conference", "2024"]
+
+- title: "GSP-Traffic Dataset: Graph Signal Processing Dataset Based on Traffic Simulation"
+  publishedIn:
+    name: Graph Signal Analysis & Learning Workshop (GSAL), Osaka, Japan
+    date: Jul. 2024
+    url: https://www.greeniot.org/gsal/program
+  authors:
+  - name: R. Kumagai
+  - name: H. Kojima
+  - name: H. Higashi
+  - name: Y. Tanaka
+  paper:
+    summary: 
+  categories: ["international-conference", "2024"]
+  tags: ["International Conference", "2024"]
+
+- title: "GSP-Traffic Dataset: グラフ上データ解析のための交通流シミュレーションに基づくデータセット"
+  publishedIn:
+    name: "電子情報通信学会 信号処理研究会 (SIP)"
+    date: "Jun. 2024"
+    url: "https://ken.ieice.org/ken/program/index.php?tgs_regid=3d0ab9ec7458ac1ee0936edefdf6a3c32fa90f3ffe5602870fa4ef686e43353e"
+  authors:
+  - name: "熊谷塁"
+  - name: "小島颯"
+  - name: "東広志"
+  - name: "田中雄一"
+  paper:
+    summary: 
+    url: "https://ken.ieice.org/ken/paper/20240606qcD8/"
+  categories: ["domestic-conference", "2024"]
+  tags: ["Domestic Conference", "2024"]
+
+- title: "深層展開を利用した多モーダルグラフ信号のグラフ学習を伴うノイズ除去"
+  publishedIn:
+    name: "電子情報通信学会 画像工学研究会 (IE)"
+    date: "Mar. 2024"
+    url: "https://ken.ieice.org/ken/program/index.php?tgs_regid=069f66dfcdc7589018e6f3eae92c84b1b5c140a34a8c3bd828430c1b8d3dd6d0"
+  authors:
+  - name: "高波圭吾"
+  - name: "小島颯"
+  - name: "原惇也"
+  - name: "坂東幸浩"
+  - name: "高村誠之"
+  - name: "東広志"
+  - name: "田中雄一"
+  paper:
+    summary: 
+    url: "https://ken.ieice.org/ken/paper/20240315Sc1W/"
+  categories: ["domestic-conference", "2024"]
+  tags: ["Domestic Conference", "2024"]
+
+- title: "Human Pose Refinement Using Line Graphs"
+  publishedIn:
+    name: "ASPIRE Workshop, Hiroshima, Japan"
+    date: "Mar. 2024"
+    url: "https://www.greeniot.org/aspire_2024/"
+  authors:
+  - name: "H. Kojima"
+  - name: Y. Tanaka
+  paper:
+    summary: 
+    url: "https://www.ieice.org/publications/proceedings/summary.php?iconf=ASPIRE_WS&session_num=P&number=P-14&year=2024"
+    pdf: "https://www.ieice.org/publications/proceedings/bin/pdf_link.php?fname=14.pdf&iconf=ASPIRE_WS&year=2024&vol=80&number=P-14&lang=E"
+    poster: "/posters/aspire_poster_kojima_0226.pdf"
+  categories: ["international-conference", "2024"]
+  tags: ["International Conference", "2024"]
+
+- title: "Graph-RED: Regularization by Denoising を用いたグラフ信号のノイズ除去"
+  publishedIn:
+    name: "第38回信号処理シンポジウム"
+    date: "Nov. 2023"
+    url: "https://award-con.com/sips2023/"
+  authors:
+  - name: "小島颯"
+  - name: "東広志"
+  - name: "田中雄一"
+  paper:
+    summary: 
+    slides: "/slides/SIPs2311_kojima.pdf"
+  categories: ["domestic-conference", "2023"]
+  tags: ["Domestic Conference", "2023"]
+
+- title: "ライングラフを用いた人体ポーズデータの修復"
+  publishedIn:
+    name: "電子情報通信学会 信号処理研究会 (SIP)"
+    date: "Aug. 2023"
+    url: "https://ken.ieice.org/ken/program/index.php?tgs_regid=ff3d97a6088510dec2a5d0e71384bd62140d8e28c79634569b1c1d89bdb78f6a&tgid=IEICE-SIP"
+  authors:
+  - name: "小島颯"
+  - name: "田中雄一"
+  paper:
+    summary:
+    url: "https://ken.ieice.org/ken/paper/20230808iCw3/"
+    slides: "/slides/slide_kojima202308.pdf"
+  categories: ["domestic-conference", "2023"]
+  tags: ["Domestic Conference", "2023"]
+
+- title: Restoration of Time-Varying Graph Signals using Deep Algorithm Unrolling
+  publishedIn:
+    name: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, Greece
+    date: Jun. 2023
+    url: "https://2023.ieeeicassp.org/"
+  authors:
+  - name: H. Kojima
+  - name: H. Noguchi
+  - name: K. Yamada
+  - name: Y. Tanaka
+  paper:
+    summary: 
+    url: "https://doi.org/10.1109/ICASSP49357.2023.10094838"
+    slides: "/slides/kojimaICASSP2023.pdf"
+    poster: "/posters/ICASSP2023_Kojima_poster.pdf"
+    bibtex:
+      id: "10094838"
+  categories: ["international-conference", "2023"]
+  tags: ["International Conference", "2023"]
+
+- title: "深層展開を用いた時変グラフ信号の再構成"
+  publishedIn:
+    name: "第37回信号処理シンポジウム"
+    date: "Dec. 2022"
+    url: "https://award-con.com/sips2022/"
+  authors:
+  - name: "小島颯"
+  - name: "山田宏樹"
+  - name: "野口ひかり"
+  - name: "田中雄一"
+  paper:
+    summary:
+    slides: "/slides/SIP2022.pdf"
+  categories: ["domestic-conference", "2022"]
+  tags: ["Domestic Conference", "2022"]
+
+- title: Interactive Cultivation System for the Future IoT-Based Agriculture
+  publishedIn:
+    name: Seventh International Symposium on Computing and Networking Workshops (CANDARW), Nagasaki, Japan
+    date: Nov. 2019
+    url: "https://is-candar.org/candar19/"
+  authors:
+  - name: K. Veloo
+  - name: H. Kojima
+  - name: S. Takata
+  - name: M. Nakamura
+  - name: H. Nakajo
+  paper:
+    summary: 
+    url: https://doi.org/10.1109/CANDARW.2019.00059
+    bibtex:
+      id: "8951520"
+  categories: ["international-conference", "2019"]
+  tags: ["International Conference", "2019"]
+
+- title: "家庭菜園におけるインタラクティブ栽培センシングシステムの実現"
+  publishedIn:
+    name: "組込みシステムシンポジウム"
+    date: "Sep. 2019"
+    url: "https://www.ipsj.or.jp/kenkyukai/event/s-ess2019.html"
+  authors:
+  - name: "小島颯"
+  - name: "高田勝悟"
+  - name: "Kesevan Veloo"
+  - name: "仲村将司"
+  - name: "中條拓伯"
+  paper:
+    summary: 
+    url: "https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=198767&item_no=1&page_id=13&block_id=8"
+    pdf: "https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&item_id=198767&file_id=1&file_no=1"
+  categories: ["domestic-conference", "2019"]
+  tags: ["Domestic Conference", "2019"]
+  
+# projects:
+# - name: Interpretable Graph Signal Denoising Using Regularization by Denoising
+#   role: European Signal Processing Conference
+#   timeline: "Aug. 2024"
+#   # url: ""
+#   summary: 
+#   tags: ["International Conference"]

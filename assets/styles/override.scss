@@ -1,0 +1,23 @@
+// Custom style overrides (imported by the theme's application.template.scss)
+
+// Japanese typography: keep Mulish for Latin glyphs, fall back to BIZ UDPGothic
+// for Japanese glyphs (loaded via Google Fonts in helpers/style-bundle.html).
+$font-stack: 'Mulish', 'BIZ UDPGothic', sans-serif;
+
+:root {
+  --bs-body-font-family: #{$font-stack};
+}
+
+body,
+h1, h2, h3, h4, h5, h6,
+.greeting,
+.greeting-subtitle,
+.typing-carousel,
+.card,
+.btn,
+input,
+button,
+textarea,
+select {
+  font-family: $font-stack;
+}

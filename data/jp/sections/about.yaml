@@ -1,0 +1,163 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  # template: sections/about.html
+
+# your designation
+designation: 博士後期課程
+# your company information
+company:
+  name: 大阪大学
+  url: "https://www.osaka-u.ac.jp/ja"
+
+# your resume. this file path should be relative to you "static" directory
+# Dreprecated. Use resourceLinks instead.
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: |
+  Hayate Kojima received the B.E. and M.E. degrees in electrical engineering and computer science from the Tokyo University of Agriculture and Technology, Tokyo, Japan, in 2023 and 2025, respectively. He is currently working toward the Ph.D. degree at the Graduate School of Engineering, the University of Osaka, Osaka, Japan.
+
+  Since 2025, he has been a Research Fellow (DC1) of the Japan Society for the Promotion of Science (JSPS). His research interests include graph signal processing, machine learning for signal processing, and interpretable deep learning.
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "h-kojima@msp-lab.org"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/kojima-msp"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://x.com/h_kojima_sp"
+
+skills:
+- name: Python
+  icon: "devicon-python-plain"
+
+- name: PyTorch
+  icon: "devicon-pytorch-original"
+
+- name: TensorFlow
+  icon: "devicon-tensorflow-original"
+
+- name: Numpy
+  icon: "devicon-numpy-plain"
+  
+- name: Networkx
+  icon: "devicon-networkx-plain"
+
+- name: OpenCV
+  icon: "devicon-opencv-plain"
+
+- name: Pandas
+  icon: "devicon-pandas-plain"
+
+- name: Django
+  icon: "devicon-django-plain-wordmark"
+  
+- name: Linux
+  icon: "devicon-linux-plain"
+
+- name: Ubuntu
+  icon: "devicon-ubuntu-plain"
+
+- name: Raspberrypi
+  icon: "devicon-raspberrypi-plain"
+
+- name: LaTeX
+  icon: "devicon-latex-original"
+  
+- name: C
+  icon: "devicon-c-plain"
+
+- name: Flutter
+  icon: "devicon-flutter-plain"
+
+- name: Arduino
+  icon: "devicon-arduino-plain"
+
+- name: Selenium
+  icon: "devicon-selenium-original"
+
+- name: TailwindCSS
+  icon: "devicon-tailwindcss-original"
+
+qualifications:
+
+- name: "基本情報技術者試験"
+  year: "2021"
+
+- name: "CGエンジニア検定 エキスパート（CG-ARTS）"
+  year: "2020"
+
+awards:
+- name: "IEEE SPS Tokyo Joint Chapter Student Award"
+  year: "2025"
+  
+- name: "IEEE SPS Japan Student Conference Paper Award"
+  year: "2024"
+
+- name: "画像工学研究研究会 IE特別賞"
+  year: "2024"
+
+grants:
+- name: "日本学術振興会 特別研究員（DC1）"
+  year: "2025"
+
+- name: "日本学生支援機構 大学院第一種奨学金 特に優れた業績による返還免除"
+  year: "2025"
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+# resourceLinks:
+# - title: "My Resume"
+#   url: "files/resume.pdf"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+# - type: certification
+#   name: Certified Kubernetes Security Specialist
+#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#   badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+
+# - type: certification
+#   name: Istio and IBM Cloud Kubernetes Service
+#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#   badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+
+# - type: certification
+#   name: Artificial Intelligence and Machine Learning
+#   url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
+#   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+
+# - type: soft-skill-indicator
+#   name: Leadership
+#   percentage: 85
+#   color: blue
+
+# - type: soft-skill-indicator
+#   name: Team Work
+#   percentage: 90
+#   color: yellow
+
+# - type: soft-skill-indicator
+#   name: Hard Working
+#   percentage: 85
+#   color: orange
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

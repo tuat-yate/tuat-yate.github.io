@@ -1,0 +1,58 @@
+---
+title: "出版物"
+date: 2026-06-04
+description: ""
+menu:
+  sidebar:
+    name: 出版物
+    identifier: publications-all
+    weight: 30
+# author:
+#   name: Hayate Kojima
+#   image: /images/main-icon.jpeg
+# math: true
+---
+
+### 論文誌
+1. **H. Kojima***, K. Takanami*, J. Hara, Y. Bandoh, S. Takamura, H. Higashi and Y. Tanaka, "Algorithm Unrolling-based Denoising of Multimodal Graph Signals," IEEE Transactions on Signal and Information Processing over Networks, vol. 12, pp. 544-555, 2026, doi: 10.1109/TSIPN.2026.3683184. (*: equal contribution)
+
+2. **H. Kojima**, H. Higashi and Y. Tanaka, "Graph Signal Denoising Using Regularization by Denoising and Its Parameter Estimation," APSIPA Transactions on Signal and Information Processing, vol. 15, no. 1, pp. 332-351, 2026, doi: 10.1108/ATSIP-12-2025-0110.
+
+### 国際会議
+1. R. Kaneko, **H. Kojima**, K. Yanagiya, J. Hara, H. Higashi and Y. Tanaka, "Multiscale Graph Construction Using Non-Local Cluster Features," 2024 IEEE 34th International Workshop on Machine Learning for Signal Processing (MLSP), London, United Kingdom, 2024, pp. 1-6, doi: 10.1109/MLSP58920.2024.10734767. 
+
+2. **H. Kojima**, H. Higashi and Y. Tanaka, "Interpretable Graph Signal Denoising Using Regularization by Denoising," 2024 32nd European Signal Processing Conference (EUSIPCO), Lyon, France, 2024, pp. 2322-2326, doi: 10.23919/EUSIPCO63174.2024.10715194. 
+
+3. R. Kumagai, **H. Kojima**, H. Higashi, Y. Tanaka, “GSP-Traffic Dataset: Graph Signal Processing Dataset Based on Traffic Simulation,” Graph Signal Analysis & Learning Workshop (GSAL), Osaka, Japan, Jul. 2024. 
+
+4. **H. Kojima**, Y. Tanaka, “Human Pose Refinement Using Line Graphs,” ASPIRE Workshop, Hiroshima, Japan, Mar. 2024, doi: 10.34385/proc.80.P-14. 
+
+5. **H. Kojima**, H. Noguchi, K. Yamada and Y. Tanaka, "Restoration of Time-Varying Graph Signals using Deep Algorithm Unrolling," ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, Greece, 2023, pp. 1-5, doi: 10.1109/ICASSP49357.2023.10094838. 
+
+6. K. Veloo, **H. Kojima**, S. Takata, M. Nakamura and H. Nakajo, "Interactive Cultivation System for the Future IoT-Based Agriculture," 2019 Seventh International Symposium on Computing and Networking Workshops (CANDARW), Nagasaki, Japan, 2019, pp. 298-304, doi: 10.1109/CANDARW.2019.00059. 
+
+### 国内会議
+
+1. 中谷 光佑, **小島 颯**，田中 雄一, “深層展開の学習パラメータのパラメータ化およびその収束に関する一検討,” 第40回信号処理シンポジウム, 2025年12月. 
+
+2. **小島 颯**，中谷 光佑, 原 惇也, 東 広志，田中 雄一, “深層展開の頑健性向上のための学習パラメータ調整,” 電子情報通信学会 信号処理研究会 (SIP), 2025年08月. 
+
+3. 熊谷 塁，**小島 颯**，原 惇也，東 広志，田中 雄一, “GSP Japan-Traffic Dataset: 実測道路交通量に基づく時系列グラフ信号データセット,” 電子情報通信学会 信号処理研究会 (SIP), 2025年08月. 
+
+4. 赤林 知哉，**小島 颯**，原 惇也，東 広志，田中 雄一, “ノード数が変化する時変グラフに対するクラスタリング,” 電子情報通信学会 信号処理研究会 (SIP), 2025年03月. 
+
+5. **小島 颯**，東 広志，田中 雄一, “Regularization by Denoising を用いたグラフ信号のノイズ除去とその信号処理的解釈,” 第39回信号処理シンポジウム, 2024年12月. 
+   
+6. 金子玲菜，原 惇也，柳谷 健太，**小島 颯**，東 広志，田中 雄一, “頂点特徴量を利用した非局所的マルチスケールグラフの構築,” 第39回信号処理シンポジウム, 2024年12月. 
+  
+7. 熊谷 塁，**小島 颯**，東 広志，田中 雄一, “GSP-Traffic Dataset: グラフ上データ解析のための交通流シミュレーションに基づくデータセット,” 電子情報通信学会 信号処理研究会 (SIP), 2024年06月. 
+
+8. 高波 圭吾，**小島 颯**，原 惇也，坂東 幸浩，高村 誠之，東 広志，田中 雄一, “深層展開を利用した多モーダルグラフ信号のグラフ学習を伴うノイズ除去,” 電子情報通信学会 画像工学研究会 (IE), 2024年03月. 
+
+9. **小島 颯**，東 広志，田中 雄一, “Graph-RED: Regularization by Denoising を用いたグラフ信号のノイズ除去,” 第38回信号処理シンポジウム, 2023年11月. 
+
+10. **小島 颯**，田中 雄一, “ライングラフを用いた人体ポーズデータの修復,” 電子情報通信学会 信号処理研究会 (SIP), 2023年08月. 
+
+11. **小島 颯**，山田 宏樹，野口 ひかり，田中 雄一, “深層展開を用いた時変グラフ信号の再構成,” 第37回信号処理シンポジウム, 2022年12月. 
+
+12. **小島 颯**，高田 勝悟，Kesevan Veloo，仲村 将司，中條 拓伯, “家庭菜園におけるインタラクティブ栽培センシングシステムの実現,” 組込みシステムシンポジウム, 2019年09月. 

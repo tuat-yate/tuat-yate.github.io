@@ -1,4 +1,7 @@
 # More documentation here: https://github.com/nicksnyder/go-i18n
+[at]
+other = "@"
+
 [home]
 other = "ホーム"
 
@@ -129,10 +132,10 @@ other = "Skills"
 other = "Contacts"
 
 [qualifications]
-other = "資格"
+other = "Qualifications"
 
 [awards]
-other = "受賞"
+other = "Awards"
 
 [grants]
-other = "競争的資金"
+other = "Grants"

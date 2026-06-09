@@ -18,11 +18,11 @@ module:
     target: static/fonts
   
 languages:
-  # jp:
-  #   languageCode: jp
-  #   languageName: 日本語
-  #   title: "Hayate Kojima's Page"
-  #   weight: 1
+  jp:
+    languageCode: ja
+    languageName: 日本語
+    title: "Hayate Kojima's Page"
+    weight: 1
   en:
     languageCode: en
     languageName: English

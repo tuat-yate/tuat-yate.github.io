@@ -1,0 +1,74 @@
+# section information
+section:
+  name: 職歴
+  id: experiences
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+- company:
+    name: "日本学術振興会 (JSPS)"
+    url: ""
+    location: 大阪, 日本
+    # logo: /images/sections/experiences/company1.jpg
+    # company overview
+    overview: ""
+  positions:
+  - designation: 特別研究員 (DC1) ＠大阪大学
+    start: 2025年4月
+    # give some points about what was your responsibilities at the company.
+
+- company:
+    name: "**（非公開）"
+    url: ""
+    location: "オンライン"
+    # logo: /images/sections/experiences/company1.jpg
+    # company overview
+    overview: ""
+  positions:
+  - designation: プログラミング講師（Part-time）
+    start: 2023年10月
+    end: 2025年3月
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - "Pythonを中心としたプログラミングの基礎から応用までを指導"
+
+- company:
+    name: 大阪大学
+    url: "https://www.osaka-u.ac.jp/ja"
+    location: 大阪, 日本
+    overview: ""
+  positions:
+  - designation: 特任研究員（Part-time）
+    start: 2021年8月
+    end: 2023年2月
+    responsibilities:
+    - "グラフ信号処理に関する研究に従事"
+
+- company:
+    name: "BonBon,Inc."
+    url: "https://bon-bon.co.jp/"
+    location: 京都, 日本
+    overview: ""
+  positions:
+  - designation: データサイエンティスト（Intern）
+    start: 2020年10月
+    end: 2021年11月
+    responsibilities:
+    - "主に医用画像の診断支援ソフトウェアの開発に従事"
+
+- company:
+    name: "ELOOP,Inc."
+    url: "https://e-loop.jp/#1"
+    location: 東京, 日本
+    overview: ""
+  positions:
+  - designation: プログラマ（Part-time)
+    start: 2019年10月
+    end: 2020年3月
+    responsibilities:
+    - 'プログラミング学習サイト「ELOOP」の開発'
