@@ -107,9 +107,9 @@ publications:
   - name: "東広志"
   - name: "田中雄一"
   paper:
-    summary: 
+    summary:
     url: "https://ken.ieice.org/ken/paper/202508296cma/"
-    
+    slides: "/slides/kojima_sip2508.pdf"
   categories: ["domestic-conference", "2025"]
   tags: ["Domestic Conference", "2025"]
 
@@ -159,7 +159,8 @@ publications:
   - name: "東広志"
   - name: "田中雄一"
   paper:
-    summary: 
+    summary:
+    slides: "/slides/kojima_sips2024.pdf"
   categories: ["domestic-conference", "2024"]
   tags: ["Domestic Conference", "2024"]
 
@@ -214,6 +215,7 @@ publications:
     summary: 
     url: "https://ieeexplore.ieee.org/document/10715194"
     pdf: "https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0002322.pdf"
+    poster: "/posters/poster_eusipco_kojima.pdf"
     bibtex:
       id: "10715194"
   categories: ["international-conference", "2024"]
@@ -281,6 +283,7 @@ publications:
     summary: 
     url: "https://www.ieice.org/publications/proceedings/summary.php?iconf=ASPIRE_WS&session_num=P&number=P-14&year=2024"
     pdf: "https://www.ieice.org/publications/proceedings/bin/pdf_link.php?fname=14.pdf&iconf=ASPIRE_WS&year=2024&vol=80&number=P-14&lang=E"
+    poster: "/posters/aspire_poster_kojima_0226.pdf"
   categories: ["international-conference", "2024"]
   tags: ["International Conference", "2024"]
 
@@ -295,6 +298,7 @@ publications:
   - name: "田中雄一"
   paper:
     summary: 
+    slides: "/slides/SIPs2311_kojima.pdf"
   categories: ["domestic-conference", "2023"]
   tags: ["Domestic Conference", "2023"]
 
@@ -307,8 +311,9 @@ publications:
   - name: "小島颯"
   - name: "田中雄一"
   paper:
-    summary: 
+    summary:
     url: "https://ken.ieice.org/ken/paper/20230808iCw3/"
+    slides: "/slides/slide_kojima202308.pdf"
   categories: ["domestic-conference", "2023"]
   tags: ["Domestic Conference", "2023"]
 
@@ -325,6 +330,8 @@ publications:
   paper:
     summary: 
     url: "https://doi.org/10.1109/ICASSP49357.2023.10094838"
+    slides: "/slides/kojimaICASSP2023.pdf"
+    poster: "/posters/ICASSP2023_Kojima_poster.pdf"
     bibtex:
       id: "10094838"
   categories: ["international-conference", "2023"]
@@ -341,7 +348,8 @@ publications:
   - name: "野口ひかり"
   - name: "田中雄一"
   paper:
-    summary: 
+    summary:
+    slides: "/slides/SIP2022.pdf"
   categories: ["domestic-conference", "2022"]
   tags: ["Domestic Conference", "2022"]
 

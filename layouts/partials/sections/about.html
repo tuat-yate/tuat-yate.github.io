@@ -3,9 +3,9 @@
   {{ $sectionID = .section.id }}
 {{ end }}
 
-{{ $author:= site.Data.author }}
-{{ if (index site.Data site.Language.Lang).author }}
-  {{ $author = (index site.Data site.Language.Lang).author }}
+{{ $author:= hugo.Data.author }}
+{{ if (index hugo.Data site.Language.Lang).author }}
+  {{ $author = (index hugo.Data site.Language.Lang).author }}
 {{ end }}
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 

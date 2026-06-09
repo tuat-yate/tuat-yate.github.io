@@ -38,6 +38,12 @@
         {{ if .paper.pdf }}
         <a class="btn btn-outline-info text-center" href="{{ .paper.pdf }}" target="_blank" rel="noopener" role="button">PDF</a>
         {{ end }}
+        {{ with .paper.slides }}
+        <a class="btn btn-outline-info text-center" href="{{ if hasPrefix . "http" }}{{ . }}{{ else }}{{ . | relURL }}{{ end }}" target="_blank" rel="noopener" role="button">Slides</a>
+        {{ end }}
+        {{ with .paper.poster }}
+        <a class="btn btn-outline-info text-center" href="{{ if hasPrefix . "http" }}{{ . }}{{ else }}{{ . | relURL }}{{ end }}" target="_blank" rel="noopener" role="button">Poster</a>
+        {{ end }}
         {{ if .paper.url }}
         <a class="btn btn-outline-info text-center" href="{{ .paper.url }}" target="_blank" rel="noopener" role="button">Official Page</a>
         {{ end }}
