@@ -42,8 +42,8 @@ body.kind-404 {
 
     .message {
       top: 26%;
-      left: 8%;
-      width: 52%;
+      left: 18%;
+      width: 46%;
       max-width: none;
     }
   }
@@ -53,6 +53,8 @@ body.kind-404 {
       display: block;
 
       img {
+        height: auto;
+        max-width: 100%;
         margin-left: auto;
         margin-right: auto;
       }
