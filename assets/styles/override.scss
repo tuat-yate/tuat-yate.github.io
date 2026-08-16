@@ -41,8 +41,8 @@ body.kind-404 {
     display: inline-block;
 
     .message {
-      top: 35%;
-      left: 6%;
+      top: 26%;
+      left: 8%;
       width: 52%;
       max-width: none;
     }
@@ -51,6 +51,11 @@ body.kind-404 {
   @include media('<=medium') {
     .notFound {
       display: block;
+
+      img {
+        margin-left: auto;
+        margin-right: auto;
+      }
 
       .message {
         position: static;
