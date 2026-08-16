@@ -1,0 +1,11 @@
+<li class="nav-item lang-switch">
+  {{ range $i, $translation := .AllTranslations }}
+    {{ if $i }}<span class="lang-switch-separator" aria-hidden="true">/</span>{{ end }}
+    {{ $isCurrent := eq $translation.Language.Lang site.Language.Lang }}
+    <a class="nav-link lang-switch-item{{ if $isCurrent }} lang-switch-current{{ end }}"
+       href="{{ $translation.RelPermalink }}"
+       hreflang="{{ $translation.Language.Lang }}"
+       lang="{{ $translation.Language.Lang }}"
+       {{- if $isCurrent }} aria-current="true"{{ end }}>{{ $translation.Language.LanguageName }}</a>
+  {{ end }}
+</li>

@@ -8,6 +8,29 @@ $font-stack: 'Mulish', 'BIZ UDPGothic', sans-serif;
   --bs-body-font-family: #{$font-stack};
 }
 
+.top-navbar .nav-item.lang-switch {
+  display: flex;
+  align-items: center;
+
+  .lang-switch-item {
+    padding-left: 0.4rem;
+    padding-right: 0.4rem;
+    font-weight: 600;
+    font-size: 0.9rem;
+    letter-spacing: 0.03em;
+    opacity: 0.45;
+
+    &.lang-switch-current {
+      opacity: 1;
+    }
+  }
+
+  .lang-switch-separator {
+    opacity: 0.35;
+    user-select: none;
+  }
+}
+
 body,
 h1, h2, h3, h4, h5, h6,
 .greeting,

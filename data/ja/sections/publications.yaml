@@ -1,6 +1,6 @@
 # section information
 section:
-  name: 出版物
+  name: Publications
   id: publications
   enable: true
   weight: 4
@@ -10,15 +10,15 @@ section:
 
 # filter buttons
 buttons:
-- name: すべて
+- name: All
   filter: "all"
-- name: "論文誌"
+- name: "Journal Papers"
   filter: "journal-papers"
 # - name: "Preprint"
 #   filter: "preprint"
-- name: "国際会議"
+- name: "International Conference"
   filter: "international-conference"
-- name: "国内会議"
+- name: "Domestic Conference"
   filter: "domestic-conference"
 - name: "2026"
   filter: "2026"

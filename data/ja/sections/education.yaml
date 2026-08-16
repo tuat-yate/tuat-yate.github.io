@@ -1,6 +1,6 @@
 # section information
 section:
-  name: 学歴
+  name: Education
   id: education
   # template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true

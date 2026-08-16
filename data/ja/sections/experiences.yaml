@@ -1,6 +1,6 @@
 # section information
 section:
-  name: 職歴
+  name: Experiences
   id: experiences
   enable: true
   weight: 5

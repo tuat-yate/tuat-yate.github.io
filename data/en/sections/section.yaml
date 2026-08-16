@@ -7,7 +7,7 @@ section:
   hideTitle: false
 
 # posts to feature
-# Note: 2024-pcsj-imps and 2023-sirius-extension are Japanese-only (index.jp.md),
-# so they are featured on the Japanese site only (see data/jp/sections/section.yaml).
+# Note: 2024-pcsj-imps and 2023-sirius-extension are Japanese-only (index.ja.md),
+# so they are featured on the Japanese site only (see data/ja/sections/section.yaml).
 posts:
   - publications

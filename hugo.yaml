@@ -10,22 +10,20 @@ module:
   # target root, so re-add it explicitly to keep static/ published.
   - source: static
     target: static
-  - source: ./node_modules/flag-icon-css/flags
-    target: static/flags
   - source: ./node_modules/@fontsource/mulish/files
     target: static/files
   - source: ./node_modules/katex/dist/fonts
     target: static/fonts
   
 languages:
-  jp:
-    languageCode: ja
-    languageName: 日本語
-    title: "Hayate Kojima's Page"
-    weight: 1
   en:
     languageCode: en
-    languageName: English
+    languageName: EN
+    title: "Hayate Kojima's Page"
+    weight: 1
+  ja:
+    languageCode: ja
+    languageName: JA
     title: "Hayate Kojima's Page"
     weight: 2
 

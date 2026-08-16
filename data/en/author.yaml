@@ -2,7 +2,7 @@
 name: "Hayate Kojima"
 nickname: "Hayate Kojima"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
+greeting: "Hi, I'm"
 image: "images/main-icon.jpeg"
 # give your some contact information. they will be used in the footer
 contactInfo:
@@ -12,6 +12,6 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - I am a Ph.D student.
-  - I am a programmer.
-  - I am a data-scintist.
+  - I'm a Ph.D student.
+  - I'm a programmer.
+  - I'm a data scientist.
