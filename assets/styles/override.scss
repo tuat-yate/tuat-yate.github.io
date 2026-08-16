@@ -31,6 +31,22 @@ $font-stack: 'Mulish', 'BIZ UDPGothic', sans-serif;
   }
 }
 
+body.kind-404 .notFound {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .message {
+    order: 1;
+    position: static;
+    margin: 0 0 2.5rem;
+  }
+
+  img {
+    order: 2;
+  }
+}
+
 body,
 h1, h2, h3, h4, h5, h6,
 .greeting,
