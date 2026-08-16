@@ -31,19 +31,34 @@ $font-stack: 'Mulish', 'BIZ UDPGothic', sans-serif;
   }
 }
 
-body.kind-404 .notFound {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-
-  .message {
-    order: 1;
-    position: static;
-    margin: 0 0 2.5rem;
+body.kind-404 {
+  .container {
+    text-align: center;
   }
 
-  img {
-    order: 2;
+  .notFound {
+    position: relative;
+    display: inline-block;
+
+    .message {
+      top: 35%;
+      left: 6%;
+      width: 52%;
+      max-width: none;
+    }
+  }
+
+  @include media('<=medium') {
+    .notFound {
+      display: block;
+
+      .message {
+        position: static;
+        width: auto;
+        max-width: 20rem;
+        margin: 2rem auto 0;
+      }
+    }
   }
 }
 
