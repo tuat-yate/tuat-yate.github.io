@@ -36,6 +36,21 @@ buttons:
 # your publications
 publications:
 
+- title: "イントラフレームのみを利用した高速な動画像要約手法の検討"
+  publishedIn:
+    name: "電子情報通信学会 信号処理研究会 (SIP)"
+    date: "Aug. 2026"
+    url: "https://ken.ieice.org/ken/paper/20260828AcX4/"
+  authors:
+  - name: "小島颯"
+  - name: "田中雄一"
+  paper:
+    summary:
+    url: "https://ken.ieice.org/ken/paper/20260828AcX4/"
+    slides: "/slides/2608SIP_kojima.pdf"
+  categories: ["domestic-conference", "2026"]
+  tags: ["Domestic Conference", "2026"]
+
 - title: "Algorithm Unrolling-based Denoising of Multimodal Graph Signals"
   publishedIn:
     name: "IEEE Transactions on Signal and Information Processing over Networks"
