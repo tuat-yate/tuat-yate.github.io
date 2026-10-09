@@ -14,8 +14,8 @@ buttons:
   filter: "all"
 - name: "Journal Papers"
   filter: "journal-papers"
-# - name: "Preprint"
-#   filter: "preprint"
+- name: "Preprint"
+  filter: "preprint"
 - name: "International Conference"
   filter: "international-conference"
 - name: "Domestic Conference"
@@ -35,6 +35,23 @@ buttons:
 
 # your publications
 publications:
+
+- title: "Unrolled Time-Varying Graph Signal Restoration under Spatiotemporal Smoothness Priors"
+  publishedIn:
+    name: "arXiv"
+    date: "Oct. 2026"
+    url: "https://arxiv.org/abs/2610.11359"
+  authors:
+  - name: "H. Kojima"
+  - name: "H. Noguchi"
+  - name: "K. Yamada"
+  - name: "Y. Tanaka"
+  paper:
+    summary: 
+    url: "https://arxiv.org/abs/2610.11359"
+    pdf: "https://arxiv.org/pdf/2610.11359"
+  categories: ["preprint", "2026"]
+  tags: ["Preprint", "2026"]
 
 - title: "イントラフレームのみを利用した高速な動画像要約手法の検討"
   publishedIn:

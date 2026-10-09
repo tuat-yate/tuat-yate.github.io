@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-date: 2026-09-04
+date: 2026-10-09
 description: ""
 menu:
   sidebar:
@@ -17,6 +17,9 @@ menu:
 1. **H. Kojima***, K. Takanami*, J. Hara, Y. Bandoh, S. Takamura, H. Higashi and Y. Tanaka, "Algorithm Unrolling-based Denoising of Multimodal Graph Signals," IEEE Transactions on Signal and Information Processing over Networks, vol. 12, pp. 544-555, 2026, doi: 10.1109/TSIPN.2026.3683184. (*: equal contribution)
 
 2. **H. Kojima**, H. Higashi and Y. Tanaka, "Graph Signal Denoising Using Regularization by Denoising and Its Parameter Estimation," APSIPA Transactions on Signal and Information Processing, vol. 15, no. 1, pp. 332-351, 2026, doi: 10.1108/ATSIP-12-2025-0110.
+
+### Preprints
+1. **H. Kojima**, H. Noguchi, K. Yamada and Y. Tanaka, "Unrolled Time-Varying Graph Signal Restoration under Spatiotemporal Smoothness Priors," arXiv, 2026, doi: 10.48550/arXiv.2610.11359.
 
 ### International Conferences
 1. R. Kaneko, **H. Kojima**, K. Yanagiya, J. Hara, H. Higashi and Y. Tanaka, "Multiscale Graph Construction Using Non-Local Cluster Features," 2024 IEEE 34th International Workshop on Machine Learning for Signal Processing (MLSP), London, United Kingdom, 2024, pp. 1-6, doi: 10.1109/MLSP58920.2024.10734767. 
