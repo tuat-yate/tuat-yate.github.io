@@ -36,6 +36,35 @@ buttons:
 # your publications
 publications:
 
+- title: "時空間平滑性に基づく深層展開型時変グラフ信号復元"
+  publishedIn:
+    name: "第41回信号処理シンポジウム"
+    date: "Dec. 2026"
+    url: "https://conf.signalprocessing.jp/sips/"
+  authors:
+  - name: "小島颯"
+  - name: "山田宏樹"
+  - name: "野口ひかり"
+  - name: "田中雄一"
+  paper:
+    summary: 
+    url: "https://conf.signalprocessing.jp/sips/"
+  categories: ["domestic-conference", "2026"]
+  tags: ["Domestic Conference", "2026"]
+
+- title: "Fast Video Summarization Using Only Intra-coded Frames in Video Compression"
+  publishedIn:
+    name: "SI2 Forum, Osaka, Japan"
+    date: "Oct. 2026"
+    url: "https://www.greeniot.org/si2forum2026"
+  authors:
+  - name: "H. Kojima"
+  - name: "Y. Tanaka"
+  paper:
+    summary: 
+  categories: ["international-conference", "2026"]
+  tags: ["International Conference", "2026"]
+
 - title: "Unrolled Time-Varying Graph Signal Restoration under Spatiotemporal Smoothness Priors"
   publishedIn:
     name: "arXiv"
@@ -50,6 +79,7 @@ publications:
     summary: 
     url: "https://arxiv.org/abs/2610.11359"
     pdf: "https://arxiv.org/pdf/2610.11359"
+    page: "https://github.com/kojima-msp/GLASS"
   categories: ["preprint", "2026"]
   tags: ["Preprint", "2026"]
 
